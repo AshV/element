@@ -1,15 +1,22 @@
-const CACHE_NAME = 'element-v1';
+import type { APIRoute } from 'astro';
+
+export const GET: APIRoute = () => {
+  const base = import.meta.env.BASE_URL;
+  const cleanBase = base.replace(/\/+$/, '');
+  const prefix = cleanBase ? `${cleanBase}/` : '/';
+  const cacheName = `${cleanBase.replace(/^\/+/, '') || 'wisdom'}-v1`;
+
+  const script = `const CACHE_NAME = '${cacheName}';
 const PRECACHE_ASSETS = [
-  '/element/',
-  '/element/manifest.webmanifest',
-  '/element/favicon.png',
-  '/element/daily-quotes.json',
-  '/element/icons/icon-192.png',
-  '/element/icons/icon-512.png',
-  '/element/icons/apple-touch-icon.png',
+  '${prefix}',
+  '${prefix}manifest.webmanifest',
+  '${prefix}favicon.png',
+  '${prefix}daily-quotes.json',
+  '${prefix}icons/icon-192.png',
+  '${prefix}icons/icon-512.png',
+  '${prefix}icons/apple-touch-icon.png',
 ];
 
-// Install: pre-cache critical shell assets
 self.addEventListener('install', (event) => {
   event.waitUntil(
     caches.open(CACHE_NAME).then((cache) => {
@@ -18,7 +25,6 @@ self.addEventListener('install', (event) => {
   );
 });
 
-// Activate: clean up old cache versions and claim clients
 self.addEventListener('activate', (event) => {
   event.waitUntil(
     caches.keys().then((keys) => {
@@ -33,15 +39,12 @@ self.addEventListener('activate', (event) => {
   );
 });
 
-// Fetch: intelligent caching strategy
 self.addEventListener('fetch', (event) => {
   const { request } = event;
   const url = new URL(request.url);
 
-  // Only handle GET requests
   if (request.method !== 'GET') return;
 
-  // 1. Navigation requests (HTML pages)
   if (request.mode === 'navigate') {
     event.respondWith(
       fetch(request)
@@ -53,15 +56,13 @@ self.addEventListener('fetch', (event) => {
           return response;
         })
         .catch(async () => {
-          // Try cached version of requested URL
           const cached = await caches.match(request);
           if (cached) return cached;
 
-          // Fallback to cached root sanctuary
-          const rootFallback = await caches.match('/element/');
+          const rootFallback = await caches.match('${prefix}');
           if (rootFallback) return rootFallback;
 
-          return new Response('Offline — Wisdom Sanctuary available once online.', {
+          return new Response('Offline — Sanctuary available once online.', {
             headers: { 'Content-Type': 'text/plain' },
           });
         })
@@ -69,21 +70,19 @@ self.addEventListener('fetch', (event) => {
     return;
   }
 
-  // 2. Google Fonts & Static Assets (_astro bundles, icons, media/authors, audio, daily quotes, API micro-endpoints)
   const isStaticAsset =
     url.origin.includes('fonts.googleapis.com') ||
     url.origin.includes('fonts.gstatic.com') ||
-    url.pathname.startsWith('/element/_astro/') ||
-    url.pathname.startsWith('/element/icons/') ||
-    url.pathname.startsWith('/element/media/') ||
-    url.pathname.startsWith('/element/api/') ||
+    url.pathname.startsWith('${prefix}_astro/') ||
+    url.pathname.startsWith('${prefix}icons/') ||
+    url.pathname.startsWith('${prefix}media/') ||
+    url.pathname.startsWith('${prefix}api/') ||
     url.pathname.endsWith('daily-quotes.json');
 
   if (isStaticAsset) {
     event.respondWith(
       caches.match(request).then((cachedResponse) => {
         if (cachedResponse) {
-          // Return cache, but revalidate in background
           fetch(request)
             .then((networkResponse) => {
               if (networkResponse && networkResponse.status === 200) {
@@ -106,7 +105,6 @@ self.addEventListener('fetch', (event) => {
     return;
   }
 
-  // 3. Default: Network with Cache Fallback
   event.respondWith(
     fetch(request)
       .then((response) => {
@@ -119,4 +117,9 @@ self.addEventListener('fetch', (event) => {
       .catch(() => caches.match(request))
   );
 });
+`;
 
+  return new Response(script, {
+    headers: { 'Content-Type': 'application/javascript; charset=utf-8' },
+  });
+};

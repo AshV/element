@@ -1,6 +1,6 @@
 import type { APIRoute, GetStaticPaths } from 'astro';
 import { getCollection } from 'astro:content';
-import { slugifyQuote } from 'wiz-theme';
+import { slugifyQuote } from 'wisdom';
 
 export const getStaticPaths: GetStaticPaths = async () => {
   const allQuotes = await getCollection('quotes');

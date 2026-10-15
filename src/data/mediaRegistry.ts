@@ -20,7 +20,9 @@ export interface MediaEntry {
   gradient: string;
 }
 
-const BASE = '/element';
+import { getBaseUrl } from 'wisdom';
+
+const BASE = getBaseUrl().replace(/\/$/, '');
 
 /**
  * Mood → visual gradient pool.

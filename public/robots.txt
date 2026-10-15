@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /element/
-
-Sitemap: https://www.ashishvishwakarma.com/element/sitemap-index.xml

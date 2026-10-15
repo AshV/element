@@ -1,10 +1,10 @@
 ---
-import { BaseLayout } from 'wiz-theme';
+import { BaseLayout, getBaseUrl } from 'wisdom';
 import { getCollection } from 'astro:content';
 
 const allQuotes = await getCollection('quotes');
 const totalQuotes = allQuotes.length;
-const base = '/element';
+const base = getBaseUrl().replace(/\/$/, '');
 ---
 
 <BaseLayout
@@ -17,8 +17,9 @@ const base = '/element';
     (function () {
       try {
         const rawPath = window.location.pathname.replace(/\/+$/, '');
-        // Matches /element/42, /element/q42, /element/q042, /element/quote/42, /element/quote/q042, and root equivalents
-        const match = rawPath.match(/^(?:\/element)?\/(?:quote\/)?q?(\d+)$/i);
+        // Matches {base}/42, {base}/q42, {base}/quote/42 and root equivalents
+        const escBase = base ? base.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') : '';
+        const match = rawPath.match(new RegExp('^(?:' + escBase + ')?/(?:quote/)?q?(\\d+)$', 'i'));
 
         if (match && match[1]) {
           const num = parseInt(match[1], 10);

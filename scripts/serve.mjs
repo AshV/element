@@ -1,9 +1,13 @@
 import http from 'http';
 import fs from 'fs';
 import path from 'path';
+import config from '../astro.config.mjs';
 
 const PORT = 5173;
 const DIST = path.resolve('dist');
+const rawBase = config.base || '/';
+const base = rawBase.startsWith('/') ? (rawBase.endsWith('/') ? rawBase : `${rawBase}/`) : `/${rawBase}/`;
+const baseNoSlash = base.replace(/\/+$/, '');
 
 const MIME = {
   '.html': 'text/html; charset=utf-8',
@@ -19,10 +23,10 @@ const MIME = {
 
 http.createServer((req, res) => {
   let urlPath = req.url.split('?')[0];
-  if (urlPath.startsWith('/element/')) {
-    urlPath = urlPath.slice('/element/'.length);
-  } else if (urlPath === '/element') {
-    res.writeHead(302, { Location: '/element/' });
+  if (baseNoSlash && urlPath.startsWith(base)) {
+    urlPath = urlPath.slice(base.length);
+  } else if (baseNoSlash && urlPath === baseNoSlash) {
+    res.writeHead(302, { Location: base });
     return res.end();
   }
   let filePath = path.join(DIST, urlPath);
@@ -37,5 +41,5 @@ http.createServer((req, res) => {
   res.writeHead(200, { 'Content-Type': MIME[ext] || 'application/octet-stream' });
   fs.createReadStream(filePath).pipe(res);
 }).listen(PORT, () => {
-  console.log(`Server listening at http://localhost:${PORT}/element/`);
+  console.log(`Server listening at http://localhost:${PORT}${base}`);
 });

@@ -2,7 +2,7 @@
 /**
  * Tag Feed — Quotes filtered by tag.
  */
-import { BaseLayout, ReelFeed } from 'wiz-theme';
+import { BaseLayout, ReelFeed, resolvePath } from 'wisdom';
 import { getCollection } from 'astro:content';
 import type { GetStaticPaths } from 'astro';
 
@@ -51,8 +51,8 @@ const { quotes, matchedCount, tagName } = Astro.props;
   robots="noindex, follow"
   keywords={[`#${tagName}`, `${tagName} quotes`, tagName, 'wisdom', 'quotes', 'inspirational thoughts']}
   breadcrumbs={[
-    { name: 'Tags', url: '/element/' },
-    { name: `#${tagName}`, url: `/element/tag/${slug}/` },
+    { name: 'Tags', url: resolvePath('') },
+    { name: `#${tagName}`, url: resolvePath(`tag/${slug}/`) },
   ]}
 >
   <ReelFeed

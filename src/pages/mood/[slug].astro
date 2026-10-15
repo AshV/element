@@ -2,7 +2,7 @@
 /**
  * Mood Feed — Quotes filtered by mood.
  */
-import { BaseLayout, ReelFeed, moodMeta, allMoods } from 'wiz-theme';
+import { BaseLayout, ReelFeed, moodMeta, allMoods, resolvePath } from 'wisdom';
 import { getCollection } from 'astro:content';
 import type { GetStaticPaths } from 'astro';
 
@@ -40,8 +40,8 @@ const { quotes, matchedCount, moodLabel, moodEmoji } = Astro.props;
   description={`Immerse in ${moodLabel.toLowerCase()} quotes and reflections with generative ambient animations on Wisdom.`}
   keywords={[`${moodLabel} quotes`, moodLabel, 'mood quotes', 'wisdom', 'mindfulness', 'daily inspiration']}
   breadcrumbs={[
-    { name: 'Moods', url: '/element/' },
-    { name: `${moodEmoji} ${moodLabel}`, url: `/element/mood/${slug}/` },
+    { name: 'Moods', url: resolvePath('') },
+    { name: `${moodEmoji} ${moodLabel}`, url: resolvePath(`mood/${slug}/`) },
   ]}
 >
   <ReelFeed

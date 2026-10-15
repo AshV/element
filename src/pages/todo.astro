@@ -5,7 +5,7 @@
  * An editorial overview and live roadmap of planned and completed
  * author expansions, prioritizing timeless thinkers over ephemeral celebrities.
  */
-import { BaseLayout } from 'wiz-theme';
+import { BaseLayout, getBaseUrl } from 'wisdom';
 import { getCollection } from 'astro:content';
 
 const allQuotes = await getCollection('quotes');
@@ -18,7 +18,7 @@ allQuotes.forEach((q) => {
   authorQuoteCounts[slug] = (authorQuoteCounts[slug] || 0) + 1;
 });
 
-const BASE = '/element';
+const BASE = getBaseUrl().replace(/\/$/, '');
 
 interface AuthorPlan {
   name: string;

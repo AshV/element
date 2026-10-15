@@ -1,6 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
-import { BaseLayout, ReelFeed, slugifyQuote } from 'wiz-theme';
+import { BaseLayout, ReelFeed, slugifyQuote, resolvePath, resolveCanonicalUrl } from 'wisdom';
 import type { GetStaticPaths } from 'astro';
 
 export const getStaticPaths: GetStaticPaths = async () => {
@@ -44,7 +44,7 @@ const { targetQuote, feedQuotes } = Astro.props;
 const { content, author, authorSlug, category, tags } = targetQuote;
 
 const textSlug = slugifyQuote(content);
-const canonicalUrl = `/element/quote/${textSlug}/`;
+const canonicalUrl = resolvePath(`quote/${textSlug}/`);
 
 // Title and rich metadata for social preview cards & Google SEO
 const title = `“${content}” — ${author} | Wisdom`;
@@ -63,7 +63,7 @@ const structuredData = {
   isPartOf: {
     '@type': 'WebSite',
     name: 'Wisdom',
-    url: 'https://www.ashishvishwakarma.com/element/',
+    url: resolveCanonicalUrl('', Astro.site?.origin),
   },
 };
 ---
@@ -75,8 +75,8 @@ const structuredData = {
   robots="noindex, follow, max-image-preview:large"
   keywords={[...tags, author, category, 'wisdom quote', 'inspirational quotation']}
   breadcrumbs={[
-    { name: 'Authors', url: '/element/' },
-    { name: author, url: `/element/author/${authorSlug}/` },
+    { name: 'Authors', url: resolvePath('author/') },
+    { name: author, url: resolvePath(`author/${authorSlug}/`) },
     { name: `“${content.slice(0, 30)}...”`, url: canonicalUrl },
   ]}
 >

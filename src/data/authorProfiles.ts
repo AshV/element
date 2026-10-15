@@ -1,3 +1,5 @@
+import { getBaseUrl } from 'wisdom';
+
 export interface AuthorWork {
   title: string;
   description: string;
@@ -24,7 +26,7 @@ export interface AuthorProfile {
   whyTimeless: string;
 }
 
-export function getAuthorPhotoUrl(slug: string, customPhoto?: string, baseUrl: string = '/element'): string {
+export function getAuthorPhotoUrl(slug: string, customPhoto?: string, baseUrl: string = getBaseUrl().replace(/\/$/, '')): string {
   if (customPhoto) return customPhoto;
   const cleanBase = baseUrl.endsWith('/') ? baseUrl.slice(0, -1) : baseUrl;
   return `${cleanBase}/media/authors/${slug}.webp`;

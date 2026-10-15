@@ -3,7 +3,7 @@
  * Category Feed — Quotes and philosophical context filtered by category.
  * High-value pillar hub page featuring category essay, historical themes, and quote reels.
  */
-import { BaseLayout, ReelFeed } from 'wiz-theme';
+import { BaseLayout, ReelFeed, resolvePath, resolveCanonicalUrl } from 'wisdom';
 import { getCollection } from 'astro:content';
 import { getCategoryProfile } from '../../data/categoryProfiles';
 import type { GetStaticPaths } from 'astro';
@@ -47,7 +47,7 @@ const structuredData = {
   '@type': 'CollectionPage',
   name: pageTitle,
   description: profile.summary,
-  url: `https://www.ashishvishwakarma.com/element/category/${slug}/`,
+  url: resolveCanonicalUrl(`category/${slug}/`, Astro.site?.origin),
   about: {
     '@type': 'Thing',
     name: profile.name,
@@ -85,8 +85,8 @@ const structuredData = {
     'inspirational thoughts',
   ]}
   breadcrumbs={[
-    { name: 'Categories', url: '/element/' },
-    { name: profile.name, url: `/element/category/${slug}/` },
+    { name: 'Categories', url: resolvePath('category/') },
+    { name: profile.name, url: resolvePath(`category/${slug}/`) },
   ]}
 >
   <!-- Schema.org JSON-LD for Google E-E-A-T -->
