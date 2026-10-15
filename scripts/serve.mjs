@@ -19,10 +19,10 @@ const MIME = {
 
 http.createServer((req, res) => {
   let urlPath = req.url.split('?')[0];
-  if (urlPath.startsWith('/wisdom/')) {
-    urlPath = urlPath.slice('/wisdom/'.length);
-  } else if (urlPath === '/wisdom') {
-    res.writeHead(302, { Location: '/wisdom/' });
+  if (urlPath.startsWith('/element/')) {
+    urlPath = urlPath.slice('/element/'.length);
+  } else if (urlPath === '/element') {
+    res.writeHead(302, { Location: '/element/' });
     return res.end();
   }
   let filePath = path.join(DIST, urlPath);
@@ -37,5 +37,5 @@ http.createServer((req, res) => {
   res.writeHead(200, { 'Content-Type': MIME[ext] || 'application/octet-stream' });
   fs.createReadStream(filePath).pipe(res);
 }).listen(PORT, () => {
-  console.log(`Server listening at http://localhost:${PORT}/wisdom/`);
+  console.log(`Server listening at http://localhost:${PORT}/element/`);
 });

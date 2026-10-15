@@ -1,5 +1,5 @@
 {
-  "name": "wisdom",
+  "name": "element",
   "type": "module",
   "version": "1.0.0",
   "engines": {
@@ -20,7 +20,7 @@
     "firebase": "^12.19.0",
     "html-to-image": "^1.11.13",
     "tailwindcss": "^4.3.3",
-    "wiz-theme": "file:../wiz-theme"
+    "wiz-theme": "file:../wisdom"
   },
   "allowScripts": {
     "esbuild": true

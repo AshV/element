@@ -1,4 +1,4 @@
-name: Deploy Wisdom to GitHub Pages
+name: Deploy Element to GitHub Pages
 
 on:
   push:
@@ -28,11 +28,11 @@ jobs:
         with:
           path: wiz-site
 
-      - name: Checkout Theme (wiz-theme)
+      - name: Checkout Theme (wisdom)
         uses: actions/checkout@v4
         with:
-          repository: AshV/wiz-theme
-          path: wiz-theme
+          repository: AshV/wisdom
+          path: wisdom
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -42,7 +42,7 @@ jobs:
           cache-dependency-path: wiz-site/package-lock.json
 
       - name: Install theme dependencies
-        working-directory: wiz-theme
+        working-directory: wisdom
         run: npm ci
 
       - name: Install site dependencies
@@ -55,10 +55,10 @@ jobs:
           path: |
             wiz-site/node_modules/.astro
             wiz-site/node_modules/.vite
-          key: ${{ runner.os }}-wisdom-build-${{ hashFiles('wiz-site/package-lock.json') }}-${{ github.sha }}
+          key: ${{ runner.os }}-element-build-${{ hashFiles('wiz-site/package-lock.json') }}-${{ github.sha }}
           restore-keys: |
-            ${{ runner.os }}-wisdom-build-${{ hashFiles('wiz-site/package-lock.json') }}-
-            ${{ runner.os }}-wisdom-build-
+            ${{ runner.os }}-element-build-${{ hashFiles('wiz-site/package-lock.json') }}-
+            ${{ runner.os }}-element-build-
 
       - name: Build
         working-directory: wiz-site

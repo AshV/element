@@ -1,4 +1,4 @@
 User-agent: *
-Allow: /wisdom/
+Allow: /element/
 
-Sitemap: https://www.ashishvishwakarma.com/wisdom/sitemap-index.xml
+Sitemap: https://www.ashishvishwakarma.com/element/sitemap-index.xml

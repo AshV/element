@@ -44,7 +44,7 @@ const { targetQuote, feedQuotes } = Astro.props;
 const { content, author, authorSlug, category, tags } = targetQuote;
 
 const textSlug = slugifyQuote(content);
-const canonicalUrl = `/wisdom/quote/${textSlug}/`;
+const canonicalUrl = `/element/quote/${textSlug}/`;
 
 // Title and rich metadata for social preview cards & Google SEO
 const title = `“${content}” — ${author} | Wisdom`;
@@ -63,7 +63,7 @@ const structuredData = {
   isPartOf: {
     '@type': 'WebSite',
     name: 'Wisdom',
-    url: 'https://www.ashishvishwakarma.com/wisdom/',
+    url: 'https://www.ashishvishwakarma.com/element/',
   },
 };
 ---
@@ -75,8 +75,8 @@ const structuredData = {
   robots="noindex, follow, max-image-preview:large"
   keywords={[...tags, author, category, 'wisdom quote', 'inspirational quotation']}
   breadcrumbs={[
-    { name: 'Authors', url: '/wisdom/' },
-    { name: author, url: `/wisdom/author/${authorSlug}/` },
+    { name: 'Authors', url: '/element/' },
+    { name: author, url: `/element/author/${authorSlug}/` },
     { name: `“${content.slice(0, 30)}...”`, url: canonicalUrl },
   ]}
 >

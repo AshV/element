@@ -6,7 +6,7 @@ import sitemap from '@astrojs/sitemap';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://www.ashishvishwakarma.com',
-  base: '/wisdom/',
+  base: '/element/',
   output: 'static',
   integrations: [
     sitemap({

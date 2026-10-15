@@ -84,7 +84,7 @@ async function fetchAuthorPhoto(slug, name) {
   try {
     const res = await fetch(endpoint, {
       headers: {
-        'User-Agent': 'WisdomApp/1.0 (https://github.com/AshV/wisdom; contact@ashishvishwakarma.com)',
+        'User-Agent': 'ElementApp/1.0 (https://github.com/AshV/element; contact@ashishvishwakarma.com)',
         Accept: 'application/json',
       },
     });
@@ -104,7 +104,7 @@ async function fetchAuthorPhoto(slug, name) {
 
     const imgRes = await fetch(thumbUrl, {
       headers: {
-        'User-Agent': 'WisdomApp/1.0 (https://github.com/AshV/wisdom)',
+        'User-Agent': 'ElementApp/1.0 (https://github.com/AshV/element)',
       },
     });
 

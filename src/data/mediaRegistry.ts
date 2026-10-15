@@ -20,7 +20,7 @@ export interface MediaEntry {
   gradient: string;
 }
 
-const BASE = '/wisdom';
+const BASE = '/element';
 
 /**
  * Mood → visual gradient pool.

@@ -4,7 +4,7 @@ import { getCollection } from 'astro:content';
 
 const allQuotes = await getCollection('quotes');
 const totalQuotes = allQuotes.length;
-const base = '/wisdom';
+const base = '/element';
 ---
 
 <BaseLayout
@@ -17,8 +17,8 @@ const base = '/wisdom';
     (function () {
       try {
         const rawPath = window.location.pathname.replace(/\/+$/, '');
-        // Matches /wisdom/42, /wisdom/q42, /wisdom/q042, /wisdom/quote/42, /wisdom/quote/q042, and root equivalents
-        const match = rawPath.match(/^(?:\/wisdom)?\/(?:quote\/)?q?(\d+)$/i);
+        // Matches /element/42, /element/q42, /element/q042, /element/quote/42, /element/quote/q042, and root equivalents
+        const match = rawPath.match(/^(?:\/element)?\/(?:quote\/)?q?(\d+)$/i);
 
         if (match && match[1]) {
           const num = parseInt(match[1], 10);
@@ -152,7 +152,7 @@ const base = '/wisdom';
           </button>
         </form>
         <p class="text-[11px] text-white/40 mt-1.5 text-center">
-          Tip: You can navigate anytime via <code class="text-amber-300/80 bg-white/5 px-1.5 py-0.5 rounded">/wisdom/42</code>
+          Tip: You can navigate anytime via <code class="text-amber-300/80 bg-white/5 px-1.5 py-0.5 rounded">/element/42</code>
         </p>
       </div>
 
