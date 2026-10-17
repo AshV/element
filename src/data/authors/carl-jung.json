@@ -1,0 +1,47 @@
+{
+  "slug": "carl-jung",
+  "name": "Carl Jung",
+  "longName": "Carl Gustav Jung",
+  "era": "1875 – 1961",
+  "tradition": "Analytical & Depth Psychology",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Carl_Jung",
+  "summary": "Swiss psychiatrist who mapped the human shadow, archetypes, and the soul’s journey toward individuation.",
+  "bio": "Carl Gustav Jung was a Swiss psychiatrist and psychoanalyst who founded analytical psychology. Breaking away from Sigmund Freud’s purely biological model, Jung recognized that the human psyche possesses vast spiritual, mythological, and collective depths. Through decades of clinical research and deep personal exploration (documented in his illuminated Red Book), Jung mapped the collective unconscious, dream symbolism, active imagination, synchronicity, and the vital necessity of integrating the shadow self to attain true psychological wholeness.",
+  "keyWorks": [
+    {
+      "title": "Memories, Dreams, Reflections",
+      "description": "Jung's introspective autobiography exploring his inner visions, encounters with the unconscious, and spiritual realizations."
+    },
+    {
+      "title": "The Archetypes and the Collective Unconscious",
+      "description": "The foundational mapping of universal psychological motifs (Shadow, Anima/Animus, Self) shared across human culture."
+    },
+    {
+      "title": "The Red Book (Liber Novus)",
+      "description": "A visionary illustrated diary detailing his descent into the depths of the psyche and encounter with his inner symbols."
+    },
+    {
+      "title": "Modern Man in Search of a Soul",
+      "description": "Essays addressing the modern spiritual vacuum and the psychological quest for authentic meaning."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "The Shadow & Integration",
+      "description": "True wholeness is achieved not by repressing our dark or wounded parts, but by bringing them into conscious awareness."
+    },
+    {
+      "concept": "Individuation",
+      "description": "The lifelong journey of integrating the conscious ego with the deeper Self, becoming who you truly were born to be."
+    },
+    {
+      "concept": "Synchronicity",
+      "description": "Meaningful coincidences where inner psychological events connect significantly with external reality."
+    },
+    {
+      "concept": "Looking Inward to Awaken",
+      "description": "Who looks outside dreams; who looks inside awakes."
+    }
+  ],
+  "whyTimeless": "Jung offered a bridge between empirical science and the human soul, providing an indispensable psychological compass for anyone seeking self-understanding in a fragmented modern world."
+}

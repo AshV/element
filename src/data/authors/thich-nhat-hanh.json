@@ -1,0 +1,47 @@
+{
+  "slug": "thich-nhat-hanh",
+  "name": "Thich Nhat Hanh",
+  "longName": "Zen Master Thich Nhat Hanh",
+  "era": "1926 – 2022",
+  "tradition": "Applied Mindfulness & Engaged Buddhism",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh",
+  "summary": "Global peace activist, Zen master, and author who pioneered Engaged Buddhism, conscious breathing, and the transformative power of mindfulness.",
+  "bio": "Thich Nhat Hanh was a Vietnamese Zen Buddhist monk, author, and peace activist who founded the Plum Village tradition. Nominated for the Nobel Peace Prize by Dr. Martin Luther King Jr. in 1967, Thich Nhat Hanh dedicated his life to translating the contemplative depth of Buddhist psychology into accessible daily practices for modern humanity. He pioneered the concept of \"Interbeing\"—the radical realization that no phenomenon exists in isolation, but inter-is with the entire cosmos. His gentle teachings on conscious breathing, walking meditation, and compassionate listening have transformed millions of lives worldwide.",
+  "keyWorks": [
+    {
+      "title": "Peace Is Every Step",
+      "description": "Practical mindfulness guidance for transforming daily stress, traffic, and routine into moments of deep peace and awakening."
+    },
+    {
+      "title": "The Miracle of Mindfulness",
+      "description": "The foundational handbook on conscious breathing, washing dishes with presence, and living fully in the here and now."
+    },
+    {
+      "title": "No Mud, No Lotus",
+      "description": "An extraordinary guide to the art of transforming suffering into compassion, understanding, and unshakeable happiness."
+    },
+    {
+      "title": "Being Peace",
+      "description": "Core discourses on cultivating personal serenity as the indispensable foundation for global harmony and social justice."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "The Art of Interbeing (Tiep Hien)",
+      "description": "Nothing exists by itself alone; we are interconnected with the trees, clouds, rivers, and every sentient being."
+    },
+    {
+      "concept": "Conscious Breath as Living Sanctuary",
+      "description": "Breathing in, I calm my body; breathing out, I smile. The present moment is the only moment where life is available."
+    },
+    {
+      "concept": "No Mud, No Lotus",
+      "description": "Compassion and wisdom are born directly from embracing our suffering, just as the lotus blossoms from the bottom mud."
+    },
+    {
+      "concept": "Deep Listening & Loving Presence",
+      "description": "The most precious gift we can offer another is our undivided, attentive presence: \"Darling, I am truly here for you.\""
+    }
+  ],
+  "whyTimeless": "Thich Nhat Hanh proved that peace is not an abstract theory, but a lived, accessible reality available in every single mindful breath and step."
+}

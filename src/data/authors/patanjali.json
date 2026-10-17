@@ -1,0 +1,39 @@
+{
+  "slug": "patanjali",
+  "name": "Patanjali",
+  "longName": "Maharishi Patanjali",
+  "era": "c. 2nd Century BC – 4th Century AD",
+  "tradition": "Classical Yoga Psychology & Philosophy of Consciousness",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Patanjali",
+  "summary": "Ancient sage and compiler of the Yoga Sutras who established the foundational psychological science of meditation and mental mastery.",
+  "bio": "Maharishi Patanjali was the ancient Indian sage who systematically mapped the architecture of the human psyche in the Yoga Sutras. Rather than treating yoga as mere physical posture, Patanjali defined it as \"Chitta Vritti Nirodha\"—the stilling of the fluctuations of the mind. Across 196 terse aphorisms, he articulated the Eightfold Path (Ashtanga Yoga), detailing the psychological mechanisms of habit loops (samskaras), mental afflictions (kleshas), concentration (dharana), and meditative absorption (samadhi) that lead to radical liberation (kaivalya).",
+  "keyWorks": [
+    {
+      "title": "The Yoga Sutras of Patanjali",
+      "description": "The foundational 4-chapter masterwork mapping the psychology of consciousness, practice, supernatural powers, and spiritual liberation."
+    },
+    {
+      "title": "Mahabhasya",
+      "description": "Classical Sanskrit commentary on Panini's grammar exploring the philosophy of language and sound."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "Stilling Mental Fluctuations (Chitta Vritti Nirodha)",
+      "description": "When the turbulent waves of the mind settle into stillness, the Seer rests in its true, immortal nature."
+    },
+    {
+      "concept": "The Eightfold Path (Ashtanga)",
+      "description": "A systematic progression from moral restraint (Yama) and discipline (Niyama) to posture, breath, inward focus, and absorption."
+    },
+    {
+      "concept": "Overcoming the Kleshas (Afflictions)",
+      "description": "Uprooting ignorance, egoism, craving, aversion, and clinging to transient life through dedicated practice and detachment."
+    },
+    {
+      "concept": "Continuous Practice & Non-Attachment (Abhyasa & Vairagya)",
+      "description": "Mastery is secured when practice is cultivated without interruption for a long time with wholehearted devotion."
+    }
+  ],
+  "whyTimeless": "Patanjali created the world's definitive map of mental discipline, providing humanity with a timeless, empirical roadmap for inner stillness and psychological freedom."
+}

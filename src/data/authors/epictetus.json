@@ -1,0 +1,38 @@
+{
+  "slug": "epictetus",
+  "name": "Epictetus",
+  "era": "c. 50 – c. 135 AD",
+  "tradition": "Roman Stoicism",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Epictetus",
+  "summary": "Former enslaved person who became one of antiquity’s most influential teachers of freedom, dignity, and self-mastery.",
+  "bio": "Epictetus was born into slavery in Hierapolis (modern Turkey) and served in the household of a brutal Roman imperial administrative officer. Enduring lifelong physical disability from childhood mistreatment, Epictetus discovered Stoic philosophy under Musonius Rufus. After gaining his freedom, he established a renowned school of philosophy in Nicopolis, Greece, attracting students from across the Roman Empire—including the future emperor Hadrian. Epictetus wrote nothing down; his teachings survive through the meticulous lecture notes and handbook compiled by his devoted pupil Arrian.",
+  "keyWorks": [
+    {
+      "title": "Discourses (Diatribai)",
+      "description": "Vivid, conversational lectures on human freedom, the judgment of events, and living in accordance with nature."
+    },
+    {
+      "title": "Enchiridion (The Handbook)",
+      "description": "A distilled manual of core Stoic rules for daily conduct and maintaining inner peace under any adversity."
+    },
+    {
+      "title": "Fragments",
+      "description": "Preserved sayings emphasizing personal responsibility and unwavering moral resolve."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "The Dichotomy of Control",
+      "description": "Distinguishing clearly between what is up to us (desires, judgments, choices) and what is not (body, wealth, opinion of others)."
+    },
+    {
+      "concept": "Freedom of the Will (Prohairesis)",
+      "description": "Chains can bind the leg, but even Zeus cannot conquer a sovereign, self-governing rational faculty."
+    },
+    {
+      "concept": "Non-Blame & Radical Responsibility",
+      "description": "The uneducated blame others; the beginner blames himself; the truly educated blames neither."
+    }
+  ],
+  "whyTimeless": "Having lived at the very bottom of the ancient social hierarchy, Epictetus stripped philosophy of all ivory-tower pretension, demonstrating that invincible inner freedom is available to anyone."
+}

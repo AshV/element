@@ -1,0 +1,34 @@
+{
+  "slug": "marcus-aurelius",
+  "name": "Marcus Aurelius",
+  "era": "121 – 180 AD",
+  "tradition": "Late Roman Stoicism",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Marcus_Aurelius",
+  "summary": "Roman Emperor and philosopher whose private journals became one of history’s greatest spiritual manuals for resilience.",
+  "bio": "Marcus Aurelius Antoninus ruled the Roman Empire from 161 to 180 AD as the last of the \"Five Good Emperors.\" Facing the catastrophic Antonine Plague, treasonous rebellion, economic strain, and grueling frontier wars along the Danube, Marcus retreated into his private tent each night to write his personal spiritual reflections. Never intended for publication, his journal—now known as the Meditations—embodies the daily practice of Stoic philosophy: cultivating emotional sovereignty, accepting mortality, treating duty as sacred, and finding tranquility within the \"Inner Citadel\" amid the turbulence of imperial rule.",
+  "keyWorks": [
+    {
+      "title": "Meditations (Books 1 – 12)",
+      "description": "Private aphorisms and spiritual exercises on duty, transience, emotional self-control, and cosmic harmony."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "The Inner Citadel",
+      "description": "An unassailable retreat within one’s own rational mind that no external catastrophe can breach unless you allow it."
+    },
+    {
+      "concept": "Amor Fati & Cosmic Flow",
+      "description": "Accepting whatever happens as necessary and natural, finding nourishment in every obstacle."
+    },
+    {
+      "concept": "Memento Mori",
+      "description": "Keeping the certainty of death always before your eyes to strip away trivial vanity and clarify daily priorities."
+    },
+    {
+      "concept": "Cosmopolitan Duty",
+      "description": "Viewing oneself as a citizen of the universal city (Cosmopolis), destined to work alongside fellow human beings for the common good."
+    }
+  ],
+  "whyTimeless": "Marcus Aurelius proves that supreme worldly power and supreme moral humility can coexist, offering a timeless blueprint for navigating crises with grace and resolve."
+}

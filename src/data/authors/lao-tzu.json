@@ -1,0 +1,35 @@
+{
+  "slug": "lao-tzu",
+  "name": "Lao Tzu",
+  "longName": "Lao Tzu (Laozi)",
+  "era": "6th – 4th Century BC",
+  "tradition": "Taoism (Daoism)",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Laozi",
+  "summary": "Legendary ancient Chinese sage and author of the Tao Te Ching, teaching the path of effortless action and harmony.",
+  "bio": "Lao Tzu, traditionally regarded as an archivist of the royal court of the Zhou dynasty, is the foundational sage of Taoist philosophy. Disillusioned with the decaying morals of society, tradition recounts that he mounted an ox and rode westward toward the frontier. At the Hangu Pass, the gatekeeper begged him to record his wisdom before departing into the wilderness, resulting in the 81 poetic verses of the Tao Te Ching (Daodejing). Lao Tzu’s vision emphasizes humility, non-coercion, the return to simplicity, and yielding strength modeled on the fluidity of water.",
+  "keyWorks": [
+    {
+      "title": "Tao Te Ching (Daodejing)",
+      "description": "The classic text of Taoism, exploring the mystery of the Way (Tao) and the natural power of virtue (Te)."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "Wu Wei (Effortless Action)",
+      "description": "Acting without force, aggression, or self-assertive ambition; moving in alignment with the natural grain of reality."
+    },
+    {
+      "concept": "The Way of Water",
+      "description": "Softness overcoming hardness; yielding and seeking the lowest places, yet carving through granite over time."
+    },
+    {
+      "concept": "The Uncarved Block (Pu)",
+      "description": "Returning to the original simplicity, freshness, and unpretentious wholeness of natural being."
+    },
+    {
+      "concept": "Emptiness as Utility",
+      "description": "The clay creates the vessel, but it is the emptiness within that holds the water; non-being gives rise to being."
+    }
+  ],
+  "whyTimeless": "In an exhausting world addicted to speed, aggression, and relentless striving, Lao Tzu’s gentle wisdom acts as a profound antidote, teaching that stillness and yielding preserve life."
+}

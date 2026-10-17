@@ -1,0 +1,47 @@
+{
+  "slug": "gautama-buddha",
+  "name": "Gautama Buddha",
+  "longName": "Siddhartha Gautama (The Buddha)",
+  "era": "c. 563 – 483 BC",
+  "tradition": "Early Buddhism & The Middle Way",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Gautama_Buddha",
+  "summary": "The Enlightened One whose Four Noble Truths and Eightfold Path established a practical psychological science for the cessation of suffering.",
+  "bio": "Siddhartha Gautama was born a prince of the Shakya clan in Kapilavastu. Confronted by the reality of aging, sickness, death, and asceticism (the Four Sights), he renounced his royal life at age 29 to seek an answer to universal human suffering. After six years of extreme mortification failed to bring insight, he realized the \"Middle Way\" between sensual indulgence and severe asceticism. Sitting in deep meditation under the Bodhi tree at Bodh Gaya, he attained Enlightenment (Bodhi). For the next 45 years, the Buddha walked across northern India teaching people of all castes, establishing the Sangha and teaching the Dhamma—a therapeutic, non-dogmatic path to mental liberation (Nibbana).",
+  "keyWorks": [
+    {
+      "title": "Dhammapada",
+      "description": "423 pithy verses encapsulating the Buddha's ethical teachings, mindfulness, mastery of the mind, and the path of tranquility."
+    },
+    {
+      "title": "Dhammacakkappavattana Sutta (Setting the Wheel in Motion)",
+      "description": "The first sermon at Sarnath setting forth the Four Noble Truths and the Noble Eightfold Path."
+    },
+    {
+      "title": "Satipatthana Sutta (The Foundations of Mindfulness)",
+      "description": "The definitive manual on establishing mindfulness of the body, feelings, mind states, and mental phenomena."
+    },
+    {
+      "title": "Kalama Sutta (Charter of Free Inquiry)",
+      "description": "The landmark discourse instructing seekers never to accept teachings on authority or tradition, but to test them in direct experience."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "The Four Noble Truths",
+      "description": "Understanding the reality of dissatisfaction (Dukkha), its origin in craving (Tanha), its cessation (Nirodha), and the Eightfold Path leading to its end (Magga)."
+    },
+    {
+      "concept": "The Middle Path (Majjhima Patipada)",
+      "description": "Avoiding the extremes of sensual obsession and self-punishing austerity, cultivating balanced ethical and mental clarity."
+    },
+    {
+      "concept": "Impermanence (Anicca) & Non-Self (Anatta)",
+      "description": "All conditioned phenomena are in constant flux; clinging to an unchanging personal ego is the root of mental distress."
+    },
+    {
+      "concept": "Mind Precedes All States",
+      "description": "The mind is the forerunner of all actions; with a purified mind, joy follows like a shadow that never leaves."
+    }
+  ],
+  "whyTimeless": "The Buddha provided humanity with a timeless, empirical psychology of liberation, proving that serenity and freedom from suffering are accessible through conscious mental training."
+}

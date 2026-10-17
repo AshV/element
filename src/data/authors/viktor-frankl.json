@@ -1,0 +1,55 @@
+{
+  "slug": "viktor-frankl",
+  "name": "Viktor Frankl",
+  "longName": "Viktor Emil Frankl",
+  "era": "1905 – 1997",
+  "tradition": "Logotherapy & Existential Psychology",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Viktor_Frankl",
+  "summary": "Austrian neurologist, psychiatrist, Holocaust survivor, and founder of logotherapy, who proved that humanity’s primary drive is the will to meaning.",
+  "bio": "Viktor Emil Frankl was an Austrian neurologist, psychiatrist, and philosopher who founded Logotherapy—often recognized as the \"Third Viennese School of Psychotherapy\" following Sigmund Freud's psychoanalysis and Alfred Adler's individual psychology. Born in Vienna, Frankl demonstrated an early brilliance in psychiatry, corresponding with Freud as a teenager and later treating thousands of suicidal women and youths during the Great Depression. In 1942, Frankl, his young pregnant wife Tilly, and his parents were deported by the Nazi regime. Surviving three years of unimaginable brutality across four concentration camps—Theresienstadt, Auschwitz, Kaufering, and Türkheim (a subcamp of Dachau)—Frankl observed firsthand that prisoners who maintained a connection to a transcendent purpose, an unfinished life task, or love for another person possessed far greater psychological resilience against despair and death. Following liberation, he returned to Vienna, served as head of the Department of Neurology at the Vienna Polyclinic Hospital for 25 years, and authored over 30 books, teaching millions that no outer circumstance can strip a human being of the ultimate freedom to choose their attitude and find meaning in existence.",
+  "keyWorks": [
+    {
+      "title": "Man's Search for Meaning (...trotzdem Ja zum Leben sagen)",
+      "description": "Frankl's seminal masterpiece documenting his experiences in the concentration camps and outlining the foundational principles of logotherapy."
+    },
+    {
+      "title": "The Doctor and the Soul (Ärztliche Seelsorge)",
+      "description": "The definitive clinical treatise examining existential analysis, attitudinal values, and the spiritual dimension of psychiatric healing."
+    },
+    {
+      "title": "The Will to Meaning: Foundations and Applications of Logotherapy",
+      "description": "Lectures clarifying the human yearning for purpose, self-transcendence, and the critique of reductionist psychological determinism."
+    },
+    {
+      "title": "Psychotherapy and Existentialism",
+      "description": "Selected clinical papers demonstrating the integration of existential philosophy with therapeutic technique in treating the existential vacuum."
+    },
+    {
+      "title": "The Unheard Cry for Meaning",
+      "description": "A passionate exploration of modern youth alienation, neuroses born of meaninglessness, and human dignity."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "The Will to Meaning",
+      "description": "The primary motivational force in human beings is not the pleasure principle (Freud) or the strive for superiority (Adler), but the discovery and fulfillment of personal meaning."
+    },
+    {
+      "concept": "The Last of Human Freedoms",
+      "description": "Everything can be taken from a person but one thing: the freedom to choose one's attitude in any given set of circumstances, to choose one's own way."
+    },
+    {
+      "concept": "Tragic Optimism",
+      "description": "The courageous capacity to say \"yes\" to life in spite of everything—turning suffering into human achievement, guilt into moral growth, and mortality into responsible urgency."
+    },
+    {
+      "concept": "Self-Transcendence",
+      "description": "Being human always points beyond oneself toward something or someone other than oneself—a goal to fulfill or another human being to encounter with love."
+    },
+    {
+      "concept": "The Three Avenues to Meaning",
+      "description": "Meaning is discovered through what we create (work/deeds), what we experience (nature, art, love), and the attitude we take toward unavoidable suffering."
+    }
+  ],
+  "whyTimeless": "Having tested his philosophy in the most harrowing crucible of the twentieth century, Frankl provides an invincible psychological beacon, proving that dignity, responsibility, and meaning reside entirely within the sovereign human soul."
+}

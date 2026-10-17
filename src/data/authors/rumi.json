@@ -1,0 +1,43 @@
+{
+  "slug": "rumi",
+  "name": "Rumi",
+  "longName": "Jalal al-Din Muhammad Rumi",
+  "era": "1207 – 1273 AD",
+  "tradition": "Sufi Mysticism & Poetry",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rumi",
+  "summary": "Universal poet of mystical love whose verses dissolve dogma and celebrate the soul’s reunion with the Divine.",
+  "bio": "Jalal al-Din Muhammad Rumi was a 13th-century Persian poet, Islamic scholar, and Sufi mystic born in Balkh (modern Afghanistan) who lived and taught in Konya (modern Turkey). When the wandering mystic Shams of Tabriz entered his life in 1244, Rumi was transformed from a sober jurist into an ecstatically inspired poet of unconditional love. Across tens of thousands of verses in the Masnavi and Divan-i Shams, Rumi articulated the longing of the human soul to return to its divine origin, transcending all sectarian division through the language of the heart.",
+  "keyWorks": [
+    {
+      "title": "Masnavi (Mathnawi)",
+      "description": "A monumental 26,000-verse spiritual epic known as the 'Quran in the Persian tongue', packed with parables and mystical allegories."
+    },
+    {
+      "title": "Divan-i Shams-i Tabrizi",
+      "description": "A collection of passionate, lyrical odes celebrating the divine friend, ecstasy, and total spiritual surrender."
+    },
+    {
+      "title": "Fihi Ma Fihi (Discourses)",
+      "description": "Conversational prose teachings addressing ethical dilemmas, patience, and inner cultivation."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "The Field Beyond Judgments",
+      "description": "Out beyond ideas of wrongdoing and rightdoing there is a field; meeting the beloved where words cease."
+    },
+    {
+      "concept": "The Wound as Portal",
+      "description": "The wound is the place where the Light enters you; suffering as the chisel that shapes spiritual capacity."
+    },
+    {
+      "concept": "The Guest House of Emotions",
+      "description": "Treating joy, sorrow, and meanness as unexpected guests sent from beyond for your clearing and growth."
+    },
+    {
+      "concept": "Unconditional Love",
+      "description": "Love is not an emotion between two individuals, but the fundamental gravity holding the universe together."
+    }
+  ],
+  "whyTimeless": "Rumi’s verses speak across eight centuries and every cultural divide with unmatched tenderness, offering solace to the brokenhearted and igniting spiritual longing."
+}

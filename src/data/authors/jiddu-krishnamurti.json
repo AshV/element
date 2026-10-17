@@ -1,0 +1,50 @@
+{
+  "slug": "jiddu-krishnamurti",
+  "name": "Jiddu Krishnamurti",
+  "era": "1895 – 1986",
+  "tradition": "Inquiry into Consciousness & Radical Insight",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Jiddu_Krishnamurti",
+  "summary": "Revolutionary philosophical teacher who dissolved all spiritual organizations, declaring that \"Truth is a pathless land\" accessible only through direct, choiceless awareness.",
+  "bio": "Jiddu Krishnamurti was born in Madanapalle, India, and groomed from youth by the Theosophical Society under Annie Besant and C. W. Leadbeater to be the messianic \"World Teacher.\" In 1929, in a historic act of moral integrity, Krishnamurti dissolved the wealthy Order of the Star, declaring that truth cannot be approached through any religion, guru, ritual, or dogma. For the remaining six decades of his life, he traveled the world holding dialogues and giving discourses, urging listeners not to follow him as a disciple, but to examine their own minds with razor-sharp, non-judgmental observation. He investigated the nature of fear, sorrow, time, psychological conditioning, and the beauty of a mind that has stepped completely out of the prison of the ego.",
+  "keyWorks": [
+    {
+      "title": "Freedom from the Known",
+      "description": "A distilled, urgent manifesto on stripping away psychological conditioning, fear, and authority to discover authentic freedom."
+    },
+    {
+      "title": "The First and Last Freedom",
+      "description": "Comprehensive dialogues on self-knowledge, the observer and the observed, love, and the ending of sorrow."
+    },
+    {
+      "title": "Commentaries on Living (Series 1 – 3)",
+      "description": "Intimate reflections on nature, encounters with everyday seekers, and direct psychological diagnoses of human suffering."
+    },
+    {
+      "title": "The Awakening of Intelligence",
+      "description": "Dialogues with quantum physicist David Bohm and other thinkers exploring thought, time, and the transformation of human consciousness."
+    },
+    {
+      "title": "Think on These Things",
+      "description": "Lectures to students on authentic education, fearlessness, ambition, and living with true creativity."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "Truth is a Pathless Land",
+      "description": "No guru, belief system, or technique can lead to truth; spiritual realization requires direct, unmediated personal observation."
+    },
+    {
+      "concept": "Choiceless Awareness",
+      "description": "Observing your thoughts, emotions, and reactions without judgment, comparison, condemnation, or justification."
+    },
+    {
+      "concept": "The Observer is the Observed",
+      "description": "The inner division between \"I\" (the thinker) and \"my thought\" is an illusion; when this separation ends, psychological conflict dissolves."
+    },
+    {
+      "concept": "Freedom from Psychological Time",
+      "description": "Suffering and anxiety are born when the mind projects psychological memories into future fears; real transformation happens only in the absolute now."
+    }
+  ],
+  "whyTimeless": "Krishnamurti strips spirituality of all superstitious comfort, challenging every individual to take complete responsibility for their own mind and live with clarity."
+}

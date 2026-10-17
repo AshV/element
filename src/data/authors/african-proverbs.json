@@ -1,0 +1,46 @@
+{
+  "slug": "african-proverbs",
+  "name": "African Proverbs",
+  "era": "Ancestral to Contemporary Africa",
+  "tradition": "Ubuntu & Pan-African Oral Traditions",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Proverbs_in_African_societies",
+  "summary": "Communal oral maxims embodying Ubuntu philosophy, ancestral reverence, patience, resilience, and interconnectedness.",
+  "bio": "African proverbs are the living library of human oral culture, passed down through generations across Akan, Yoruba, Zulu, Swahili, Igbo, and Amharic civilizations. Unlike written texts locked in libraries, African proverbs are dynamic community instruments used by elders, storytellers (griots), and leaders to resolve disputes, impart moral courage, and honor the web of life. At their heart beats the sovereign principle of Ubuntu: 'Umuntu ngumuntu ngabantu' — a person is a person through other persons.",
+  "keyWorks": [
+    {
+      "title": "Akan & Adinkra Proverbs",
+      "description": "Visual and oral wisdom maxims representing spiritual fortitude and communal unity."
+    },
+    {
+      "title": "Yoruba Owe Traditions",
+      "description": "Aphoristic poetic lore exploring destiny, wisdom, patience, and ancestral guidance."
+    },
+    {
+      "title": "Swahili Methali Collections",
+      "description": "East African coastal wisdom blending indigenous, maritime, and trade philosophy."
+    },
+    {
+      "title": "Oral Griot Epics (Sundiata, etc.)",
+      "description": "Living histories preserving philosophical maxims on leadership, justice, and courage."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "Ubuntu (Interconnectedness)",
+      "description": "My humanity is inextricably bound up in yours; when one person is diminished, all are diminished."
+    },
+    {
+      "concept": "Deep Roots & Community",
+      "description": "When the roots of a tree begin to decay, it spreads death to the branches — honor collective foundations."
+    },
+    {
+      "concept": "Quiet Strength & Patience",
+      "description": "Smooth seas do not make skillful sailors; character is tested not in ease, but in communal adversity."
+    },
+    {
+      "concept": "Oral Stewardship",
+      "description": "Words are like eggs; once dropped, they cannot be gathered back — speaking with reverence and weight."
+    }
+  ],
+  "whyTimeless": "African proverbs offer the world an indispensable antidote to hyper-individualism, grounding our lives in community, humility, and ancestral gratitude."
+}

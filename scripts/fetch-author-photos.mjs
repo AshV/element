@@ -23,7 +23,7 @@ import sharp from 'sharp';
 
 const QUOTES_DIR = path.resolve('src/data/quotes');
 const AUTHORS_DIR = path.resolve('public/media/authors');
-const PROFILES_FILE = path.resolve('src/data/authorProfiles.ts');
+const AUTHORS_DATA_DIR = path.resolve('src/data/authors');
 
 if (!fs.existsSync(AUTHORS_DIR)) {
   fs.mkdirSync(AUTHORS_DIR, { recursive: true });
@@ -46,19 +46,18 @@ if (fs.existsSync(QUOTES_DIR)) {
   }
 }
 
-// 2. Extract wikipediaUrl overrides from authorProfiles.ts
+// 2. Read wikipediaUrl overrides from src/data/authors/*.json
 const wikiOverrides = new Map();
-if (fs.existsSync(PROFILES_FILE)) {
-  const content = fs.readFileSync(PROFILES_FILE, 'utf8');
-  // Match slug: '...', and wikipediaUrl: '...'
-  const slugRegex = /slug:\s*'([^']+)'[\s\S]*?wikipediaUrl:\s*'([^']+)'/g;
-  let match;
-  while ((match = slugRegex.exec(content)) !== null) {
-    const slug = match[1];
-    const url = match[2];
-    const wikiTitle = url.split('/wiki/')[1];
-    if (wikiTitle) {
-      wikiOverrides.set(slug, decodeURIComponent(wikiTitle));
+if (fs.existsSync(AUTHORS_DATA_DIR)) {
+  for (const file of fs.readdirSync(AUTHORS_DATA_DIR).filter((f) => f.endsWith('.json'))) {
+    try {
+      const profile = JSON.parse(fs.readFileSync(path.join(AUTHORS_DATA_DIR, file), 'utf8'));
+      if (profile.slug && profile.wikipediaUrl) {
+        const wikiTitle = profile.wikipediaUrl.split('/wiki/')[1];
+        if (wikiTitle) wikiOverrides.set(profile.slug, decodeURIComponent(wikiTitle));
+      }
+    } catch {
+      // ignore malformed files
     }
   }
 }

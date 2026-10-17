@@ -1,0 +1,47 @@
+{
+  "slug": "apj-abdul-kalam",
+  "name": "A. P. J. Abdul Kalam",
+  "longName": "Dr. Avul Pakir Jainulabdeen Abdul Kalam",
+  "era": "1931 – 2015",
+  "tradition": "Modern Humanism, Science & Civic Vision",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam",
+  "summary": "Aerospace scientist, author, and 11th President of India, celebrated as the \"People's President\" for his humility and lifelong dedication to youth empowerment.",
+  "bio": "Dr. A. P. J. Abdul Kalam was born into a humble Tamil Muslim boat-owner's family in Rameswaram, Tamil Nadu. Overcoming poverty through scholarship and relentless work ethic, he became India's leading aerospace scientist, directing India's civilian space program (SLV-III) and defense missile development. Serving as the 11th President of India from 2002 to 2007, Kalam transformed the presidency into an accessible beacon of hope, interacting personally with over 15 million young students. A practicing vegetarian who played the Veena and studied both the Quran and the Bhagavad Gita, Kalam championed scientific inquiry, national self-reliance, and ethical leadership with child-like innocence and profound wisdom.",
+  "keyWorks": [
+    {
+      "title": "Wings of Fire",
+      "description": "His inspirational autobiography tracing his journey from the beaches of Rameswaram to leading India's space and technological milestones."
+    },
+    {
+      "title": "Ignited Minds: Unleashing the Power Within India",
+      "description": "A call to action urging the youth to dream boldly and harness scientific and moral innovation."
+    },
+    {
+      "title": "Guiding Souls: Dialogues on the Purpose of Life",
+      "description": "Philosophical reflections on spirituality, duty, consciousness, and the role of ethics in technology."
+    },
+    {
+      "title": "India 2020: A Vision for the New Millennium",
+      "description": "A strategic roadmap for eliminating poverty and building a knowledge-based, self-sufficient society."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "Dreams are not What You See in Sleep",
+      "description": "Dreams are the thoughts and aspirations that refuse to let you sleep until you bring them into reality."
+    },
+    {
+      "concept": "Learning Gives Creativity",
+      "description": "Learning gives creativity, creativity leads to thinking, thinking provides knowledge, and knowledge makes you great."
+    },
+    {
+      "concept": "Servant Leadership & Integrity",
+      "description": "When there is righteousness in the heart, there is beauty in the character; when there is beauty in character, there is harmony in the nation."
+    },
+    {
+      "concept": "Courage to Walk the Unexplored Path",
+      "description": "True courage is discovering the impossible, combating problems with confidence, and succeeding with integrity."
+    }
+  ],
+  "whyTimeless": "Dr. Kalam proved that unshakeable humility, scientific mastery, and moral innocence can coexist at the pinnacle of power, inspiring generations to live with purposeful passion."
+}

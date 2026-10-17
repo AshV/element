@@ -1,0 +1,47 @@
+{
+  "slug": "kahlil-gibran",
+  "name": "Kahlil Gibran",
+  "longName": "Kahlil Gibran",
+  "era": "1883 – 1931",
+  "tradition": "Lebanese-American Mystical Poetry & Humanism",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kahlil_Gibran",
+  "summary": "Visionary Lebanese-American poet, painter, and mystic whose timeless parables on love, marriage, work, and sorrow have touched millions across the globe.",
+  "bio": "Kahlil Gibran was a Lebanese-American essayist, poet, and visual artist whose 1923 masterpiece, The Prophet, became one of the most widely read and translated spiritual books in modern history. Blending the mystical heritage of Eastern Christianity and Sufism with Western romanticism, Gibran articulated a universal gospel of compassion, inner sovereignty, and reverent living. His writings explore the sacred rhythms of everyday human experience—teaching that love is sufficient unto love, that work is love made visible, and that suffering is the breaking of the shell that encloses understanding.",
+  "keyWorks": [
+    {
+      "title": "The Prophet",
+      "description": "Twenty-six poetic discourses on love, marriage, children, giving, work, joy, sorrow, freedom, pain, and death delivered by the sage Almustafa."
+    },
+    {
+      "title": "Sand and Foam",
+      "description": "A collection of profound spiritual aphorisms and parables illuminating human nature, friendship, and truth."
+    },
+    {
+      "title": "The Broken Wings",
+      "description": "A poetic novella meditating on love, spiritual purity, social injustice, and the bittersweet transience of earthly beauty."
+    },
+    {
+      "title": "The Madman",
+      "description": "A collection of allegorical parables on casting away false social masks and discovering the naked freedom of the soul."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "Sacred, Non-Possessive Love",
+      "description": "Love gives naught but itself and takes naught but from itself; true intimacy preserves spaces for the winds of heaven to dance."
+    },
+    {
+      "concept": "Work as Love Made Visible",
+      "description": "Labor is not an economic penalty, but the joyous weaving of the spirit's devotion into the physical fabric of the world."
+    },
+    {
+      "concept": "Pain as the Crucible of Understanding",
+      "description": "The deeper sorrow carves into your being, the more joy and boundless empathy your soul can contain."
+    },
+    {
+      "concept": "The Immensity of the Soul",
+      "description": "You are far greater than your knowledge, and more immense than your dreams; time and space are undivided within love."
+    }
+  ],
+  "whyTimeless": "Gibran elevated the ordinary milestones of human existence into sacred mysteries, speaking to the universal longing of the heart across every culture."
+}

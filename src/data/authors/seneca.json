@@ -1,0 +1,43 @@
+{
+  "slug": "seneca",
+  "name": "Seneca",
+  "longName": "Seneca (Lucius Annaeus Seneca)",
+  "era": "c. 4 BC – 65 AD",
+  "tradition": "Roman Stoicism",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Seneca_the_Younger",
+  "summary": "Roman Stoic philosopher, statesman, and playwright who mastered the art of practical wisdom and deliberate living.",
+  "bio": "Born in Cordoba and educated in Rome, Lucius Annaeus Seneca was a prominent senator, tragic dramatist, and political advisor to the young Emperor Nero. Known for his elegant Latin prose, Seneca’s philosophical essays and intimate letters to his friend Lucilius transformed Stoic principles into warm, urgent, practical guidance for daily life. He addressed the anxiety of wealth, the terror of illness, the waste of precious time, and the poison of anger with psychological penetration that feels strikingly modern. Forced by Nero to take his own life in 65 AD, Seneca met his death with textbook Stoic composure.",
+  "keyWorks": [
+    {
+      "title": "Letters from a Stoic (Epistulae Morales)",
+      "description": "124 philosophical letters offering counseling on time, friendship, grief, poverty, and mental independence."
+    },
+    {
+      "title": "On the Shortness of Life (De Brevitate Vitae)",
+      "description": "A piercing essay arguing that life is not short, but that we squander the vast majority of it on trivial distractions."
+    },
+    {
+      "title": "On Peace of Mind (De Tranquillitate Animi)",
+      "description": "A therapeutic dialogue on managing restlessness, professional burnout, and existential dread."
+    },
+    {
+      "title": "On Anger (De Ira)",
+      "description": "A thorough psychological treatise diagnosing anger as temporary madness and outlining methods to master it."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "The Sovereignty of Time",
+      "description": "Time is the only asset that can never be recovered; we must guard it far more jealously than gold or property."
+    },
+    {
+      "concept": "Premeditatio Malorum",
+      "description": "Anticipating potential misfortune so that nothing arrives as an unexpected shock."
+    },
+    {
+      "concept": "True Wealth through Moderation",
+      "description": "He who needs the least is richest, because he cannot be coerced by circumstances."
+    }
+  ],
+  "whyTimeless": "Seneca writes not as a detached moralist on a mountain, but as an imperfect human being in the arena, coaching us on how to stay sane and noble in an unpredictable world."
+}

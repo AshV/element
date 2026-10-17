@@ -1,0 +1,47 @@
+{
+  "slug": "paramahansa-yogananda",
+  "name": "Paramahansa Yogananda",
+  "longName": "Paramahansa Yogananda (Mukunda Lal Ghosh)",
+  "era": "1893 – 1952",
+  "tradition": "Kriya Yoga & Sanatana Dharma",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Paramahansa_Yogananda",
+  "summary": "Pioneer of yoga in the West and author of Autobiography of a Yogi, who bridged Eastern meditative science with Western spiritual longing.",
+  "bio": "Paramahansa Yogananda was an Indian monk and yogi who introduced millions of Westerners to meditation and Kriya Yoga through his masterwork Autobiography of a Yogi and the Self-Realization Fellowship (SRF). Initiated by his guru Swami Sri Yukteswar Giri in the sacred lineage of Lahiri Mahasaya and Mahavatar Babaji, Yogananda arrived in Boston in 1920 to address the International Congress of Religious Liberals. Across three decades of tireless lecturing, writing, and teaching in the United States, Yogananda presented yoga not as an esoteric cult, but as an empirical science of psycho-physical attunement and direct communion with the Infinite.",
+  "keyWorks": [
+    {
+      "title": "Autobiography of a Yogi",
+      "description": "One of the most acclaimed spiritual autobiographies in modern history, introducing the science of Kriya Yoga, saints, and miracles."
+    },
+    {
+      "title": "God Talks With Arjuna: The Bhagavad Gita",
+      "description": "A monumental two-volume spiritual commentary revealing the Gita as an allegory of the inner psychological and yogic battle for self-mastery."
+    },
+    {
+      "title": "The Second Coming of Christ",
+      "description": "A detailed commentary on the Four Gospels demonstrating the unity between original Christianity and yogic consciousness."
+    },
+    {
+      "title": "Man's Eternal Quest & The Divine Romance",
+      "description": "Collected talks and essays on purpose, meditation, willpower, and overcoming fear."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "The Science of Kriya Yoga",
+      "description": "A psycho-physiological technique that accelerates human spiritual evolution by neutralizing sensory restlessness and recharging the spine and brain."
+    },
+    {
+      "concept": "Direct Experience over Dogma",
+      "description": "Spiritual truth is not a matter of blind theological belief, but a verifiable state of consciousness attained through regular meditation."
+    },
+    {
+      "concept": "The Unity of Eastern & Western Mysticism",
+      "description": "The teachings of the Bhagavad Gita and the teachings of Jesus Christ point to the identical inner realization of God-consciousness."
+    },
+    {
+      "concept": "Dynamic Willpower",
+      "description": "Will is the switch that controls the flow of energy in the human body; where the mind focuses with intense resolution, energy follows."
+    }
+  ],
+  "whyTimeless": "Yogananda opened the treasure-house of Indian meditative science to the modern world, inspiring everyone from Steve Jobs to George Harrison with his radiant warmth and spiritual depth."
+}

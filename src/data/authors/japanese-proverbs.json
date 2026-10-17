@@ -1,0 +1,46 @@
+{
+  "slug": "japanese-proverbs",
+  "name": "Japanese Proverbs",
+  "era": "Classical to Edo Era (c. 8th – 19th Century)",
+  "tradition": "Zen, Shinto & Japanese Folk Philosophy",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Japanese_proverbs",
+  "summary": "Timeless Japanese aphorisms and kotowaza embodying resilience, mindfulness, nature, and the beauty of impermanence.",
+  "bio": "Japanese proverbs (kotowaza) represent centuries of contemplative insight shaped by Zen Buddhism, Shinto reverence for nature, and the lived realities of feudal resilience. Often expressed in concise four-character idioms (yojijukugo) or poetic sayings, they distill profound psychological and ethical truths. Rather than abstract metaphysics, Japanese folk wisdom focuses on practical demeanor: how one meets misfortune, how one honors transience, and how small daily disciplines compound into mastery.",
+  "keyWorks": [
+    {
+      "title": "Kotowaza & Yojijukugo",
+      "description": "Centuries of oral and literary four-character idioms encapsulating philosophical truths."
+    },
+    {
+      "title": "Hojoki (Kamo no Chomei)",
+      "description": "Classical reflections on impermanence, simplicity, and finding refuge in nature."
+    },
+    {
+      "title": "Tsurezuregusa (Yoshida Kenko)",
+      "description": "Essays in Idleness contemplating aesthetics, human nature, and fleeting moments."
+    },
+    {
+      "title": "Hagakure & Bushido Precepts",
+      "description": "Maxims on resolute duty, sincerity, and presence in the face of mortality."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "Nana Korobi Ya Oki (七転び八起き)",
+      "description": "Fall down seven times, stand up eight — the sovereign virtue of unyielding resilience."
+    },
+    {
+      "concept": "Ichi-Go Ichi-E (一期一会)",
+      "description": "One time, one meeting — treasuring each encounter as an unrepeatable gift of presence."
+    },
+    {
+      "concept": "Wabi-Sabi (侘寂)",
+      "description": "Finding profound beauty in simplicity, modesty, asymmetry, and weathered impermanence."
+    },
+    {
+      "concept": "Mono no Aware (物の哀れ)",
+      "description": "A gentle, poignant empathy for the ephemeral nature of all living things."
+    }
+  ],
+  "whyTimeless": "Japanese proverbs provide a poetic sanctuary against modern hurry, teaching us to embrace imperfection, cultivate quiet fortitude, and honor the sacred in ordinary moments."
+}

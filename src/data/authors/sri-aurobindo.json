@@ -1,0 +1,47 @@
+{
+  "slug": "sri-aurobindo",
+  "name": "Sri Aurobindo",
+  "longName": "Sri Aurobindo (Aurobindo Ghose)",
+  "era": "1872 – 1950",
+  "tradition": "Integral Yoga & Evolutionary Metaphysics",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sri_Aurobindo",
+  "summary": "Philosopher, poet, and yogi who developed Integral Yoga, envisioning the evolutionary ascent of human consciousness to the Supermind.",
+  "bio": "Aurobindo Ghose was born in Calcutta and educated in England at St. Paul's School, London, and King's College, Cambridge. Returning to India, he became a fiery leader in the early Indian nationalist struggle for complete independence (Purna Swaraj). Imprisoned by the British in the Alipore Bomb Case in 1908, Aurobindo experienced profound spiritual awakenings in his prison cell. Retiring from political activism in 1910, he established an ashram in Pondicherry with his spiritual collaborator, Mirra Alfassa (\"The Mother\"). Over the next forty years, Sri Aurobindo composed masterworks of philosophy and visionary epic poetry, developing \"Integral Yoga\"—a spiritual path aimed not at escaping the material world for Nirvana, but at divinizing earthly life and accelerating the evolution of consciousness.",
+  "keyWorks": [
+    {
+      "title": "The Life Divine",
+      "description": "His 1,000-page philosophical magnum opus explaining the evolution of matter, life, and mind toward the Supramental divine consciousness."
+    },
+    {
+      "title": "Savitri: A Legend and a Symbol",
+      "description": "A monumental 24,000-line blank verse spiritual epic recounting the soul's conquest over death and fate."
+    },
+    {
+      "title": "The Synthesis of Yoga",
+      "description": "A comprehensive manual harmonizing the classical paths of Karma, Bhakti, and Jnana Yoga into a unified life practice."
+    },
+    {
+      "title": "The Human Cycle & The Ideal of Human Unity",
+      "description": "Studies in social and political philosophy exploring the psychological stages of human society toward universal solidarity."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "All Life is Yoga",
+      "description": "Spiritual practice is not confined to meditation retreats; every action, relationship, and thought is an opportunity for conscious growth."
+    },
+    {
+      "concept": "Evolutionary Ascent to the Supermind",
+      "description": "Man is a transitional being; just as life emerged from matter and mind from life, a higher Supramental consciousness is evolving in humanity."
+    },
+    {
+      "concept": "Transformation, Not Renunciation",
+      "description": "The aim of spirituality is not to abandon the world as an illusion, but to transform body, mind, and society with divine light."
+    },
+    {
+      "concept": "The Psychic Being (Chaitya Purusha)",
+      "description": "The divine spark in the deepest core of the heart that guides the soul's evolution through lifetimes."
+    }
+  ],
+  "whyTimeless": "Sri Aurobindo offers an audacious, evolutionary optimism for human destiny, inspiring thinkers, artists, and seekers to participate actively in the elevation of consciousness."
+}

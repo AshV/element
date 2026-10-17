@@ -1,0 +1,43 @@
+{
+  "slug": "francois-de-la-rochefoucauld",
+  "name": "François de La Rochefoucauld",
+  "longName": "François VI, Duc de La Rochefoucauld, Prince de Marcillac",
+  "era": "1613 – 1680",
+  "tradition": "French Moralism & Behavioral Aphorisms",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_de_La_Rochefoucauld_(writer)",
+  "summary": "Master French moralist and aphorist whose forensic dissection of human motives unmasked the pervasive role of self-love, vanity, and self-deception in human conduct.",
+  "bio": "François VI, Duc de La Rochefoucauld, was a French nobleman, military officer, and moral philosopher whose sparkling, mercilessly insightful maxims transformed the psychological observation of human behavior. Born into the highest ranks of French aristocracy, La Rochefoucauld engaged in court intrigues, fought valiantly in the civil wars of the Fronde, and was severely wounded in the battle of the Faubourg Saint-Antoine in Paris. Retiring from political turmoil, he immersed himself in the brilliant Parisian salon of Madame de Sablé and Madame de La Fayette, honing his observations into razor-sharp aphorisms. Published in 1665 as the Maximes (Réflexions ou Sentences et Maximes morales), his work exposed the hidden mechanics of human motivation, arguing that our most celebrated virtues—courage, generosity, humility, and sincerity—are frequently disguised expressions of self-love (amour-propre) and the pursuit of social esteem.",
+  "keyWorks": [
+    {
+      "title": "Moral Maxims and Reflections (Maximes)",
+      "description": "The landmark collection of 500+ aphorisms stripping away the flattering illusions of human morality to expose the psychological engine of self-interest."
+    },
+    {
+      "title": "Reflections on Diverse Subjects (Réflexions diverses)",
+      "description": "Essays exploring social conduct, the art of conversation, friendship, aging, and the acceptance of mortality."
+    },
+    {
+      "title": "Memoirs of the Regency of Anne of Austria",
+      "description": "Firsthand historical recollections of court intrigues, political ambition, and the psychology of power during the Fronde."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "The Omnipresence of Self-Love (Amour-Propre)",
+      "description": "Self-love is the greatest of all flatterers; it speaks all languages and plays all roles, subtly motivating our actions even when we believe we are acting selflessly."
+    },
+    {
+      "concept": "The Mask of Virtue",
+      "description": "What we take for virtue is frequently only an assemblage of different acts and interests arranged by fortune or vanity to earn the good opinion of others."
+    },
+    {
+      "concept": "The Tyranny of the Passions",
+      "description": "The head is always the dupe of the heart; reason rationalizes and justifies what our emotional impulses, desires, and fears have already chosen."
+    },
+    {
+      "concept": "Hypocrisy as Homage",
+      "description": "Hypocrisy is the homage that vice pays to virtue; social morality survives because humans are desperate to appear good even when failing to be good."
+    }
+  ],
+  "whyTimeless": "La Rochefoucauld remains the supreme anatomist of the human ego, whose psychological penetrating insight anticipated Nietzsche, Freud, and modern cognitive psychology by two centuries."
+}

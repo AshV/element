@@ -1,0 +1,47 @@
+{
+  "slug": "adi-shankara",
+  "name": "Adi Shankara",
+  "longName": "Adi Shankaracharya",
+  "era": "c. 788 – 820 AD",
+  "tradition": "Advaita Vedanta (Non-Dualism)",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Adi_Shankara",
+  "summary": "Philosopher, master dialectician, and theologian who consolidated the doctrine of Advaita Vedanta (non-dual reality) across India.",
+  "bio": "Adi Shankara was born in Kalady, Kerala, and became a sanyasin at an early age under Govinda Bhagavatpada. In a brief life of 32 years, Shankara traveled barefoot across the length and breadth of the Indian subcontinent, engaging scholars of diverse traditions in philosophical debates and establishing four monastic centers (Mathas) at Sringeri, Puri, Dwaraka, and Joshimath. He wrote definitive commentaries (Bhashyas) on the Principal Upanishads, the Bhagavad Gita, and the Brahma Sutras (the Prasthanatrayi). Shankara’s philosophy posits that ultimate reality is non-dual consciousness (Brahman); the perceived universe of separate objects is an appearance produced by Maya, and the individual soul (Atman) is fundamentally identical with Brahman.",
+  "keyWorks": [
+    {
+      "title": "Brahmasutra Bhashya",
+      "description": "The cornerstone commentary systematizing non-dual metaphysics and resolving apparent scriptural contradictions."
+    },
+    {
+      "title": "Vivekachudamani (Crest-Jewel of Discrimination)",
+      "description": "A luminous poetic dialogue between teacher and student on cultivating discrimination between the Real and the Unreal."
+    },
+    {
+      "title": "Atmabodha (Self-Knowledge)",
+      "description": "68 verses providing direct metaphors to awaken the intellect to its own non-dual nature."
+    },
+    {
+      "title": "Bhaja Govindam (Moha Mudgara)",
+      "description": "A famous devotional hymn shattering the illusions of wealth, youth, and pedantic grammar in the face of inevitable mortality."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "Brahman Satyam, Jagan Mithya",
+      "description": "Brahman (pure consciousness) alone is real; the universe of changing forms is an appearance (Mithya); the individual Self is not different from Brahman."
+    },
+    {
+      "concept": "Viveka (Spiritual Discrimination)",
+      "description": "The sharp capacity of the intellect to distinguish between the eternal, unchanging Self and fleeting, perishable phenomena."
+    },
+    {
+      "concept": "Vairagya (Dispassion)",
+      "description": "Freedom from obsessive thirst for temporary sensory objects, clearing the mental mirror to reflect truth."
+    },
+    {
+      "concept": "Liberation through Knowledge (Jnana)",
+      "description": "Ignorance (Avidya) is the sole cause of bondage; only direct experiential knowledge of non-duality can dissolve the illusion of suffering."
+    }
+  ],
+  "whyTimeless": "Adi Shankara provided the ultimate summit of philosophical non-dualism, presenting a rigorous, luminous intellectual framework for spiritual unity that continues to captivate global philosophers."
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "thiruvalluvar",
+  "name": "Thiruvalluvar",
+  "longName": "Thiruvalluvar (Valluvar)",
+  "era": "c. 4th – 5th Century AD",
+  "tradition": "Classical Tamil Ethical Philosophy",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Thiruvalluvar",
+  "summary": "Ancient Tamil philosopher and poet whose masterwork, the Tirukkural, offers 1,330 couplets of universal secular ethics, statecraft, and human love.",
+  "bio": "Thiruvalluvar was an ancient Tamil poet and philosopher traditionally believed to have lived in Mylapore (modern Chennai). His masterwork, the Tirukkural (The Sacred Couplets), is revered as the Tamil Veda (Tamil Marai) and stands as one of the world's greatest ethical texts. Consisting of 1,330 couplets organized into 133 chapters across three universal realms—Aram (Virtue/Dharma), Porul (Wealth/Statecraft), and Inbam (Love/Kama)—the Kural is uniquely non-sectarian, free of dogma, and grounded in universal moral realism. Valluvar provides practical wisdom on speech, friendship, gratitude, righteous governance, agricultural labor, and domestic tenderness.",
+  "keyWorks": [
+    {
+      "title": "Tirukkural (Book I: Virtue / Aram)",
+      "description": "Couplets on domestic virtue, ascetic discipline, truthfulness, compassion, gratitude, and hospitality."
+    },
+    {
+      "title": "Tirukkural (Book II: Wealth & Statecraft / Porul)",
+      "description": "Discourses on good governance, citizenship, justice, diplomacy, friendship, and the nobility of honest work."
+    },
+    {
+      "title": "Tirukkural (Book III: Love / Inbam)",
+      "description": "Subtle lyrical verses exploring courtship, mutual devotion, separation, and romantic intimacy."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "Righteous Living as Supreme Duty (Aram)",
+      "description": "Virtue is not an abstract religious formula; it is living without envy, greed, anger, and harsh words in everyday life."
+    },
+    {
+      "concept": "The Golden Debt of Gratitude",
+      "description": "Never forget the benefit received from another; help rendered in the hour of need, though small as a grain of millet, is larger than the ocean."
+    },
+    {
+      "concept": "Impartial Justice & Kind Speech",
+      "description": "True nobility is speaking sweet words with a smiling face and acting with equal fairness toward friends and strangers alike."
+    },
+    {
+      "concept": "Dignity of Labor",
+      "description": "Even if the gods do not grant success, honest physical effort will yield its own inevitable fruit."
+    }
+  ],
+  "whyTimeless": "Thiruvalluvar’s Tirukkural remains a lighthouse of practical, secular morality that applies universally to every culture, government, and individual seeking a life of integrity."
+}

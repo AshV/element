@@ -1,0 +1,39 @@
+{
+  "slug": "hafez",
+  "name": "Hafez",
+  "longName": "Khwaja Shams-ud-Din Muhammad Hafez-e Shirazi",
+  "era": "c. 1315 – 1390",
+  "tradition": "Persian Sufi Mysticism & Ecstatic Poetry",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hafez",
+  "summary": "Legendary Persian Sufi master and poet whose ecstatic verses celebrate divine intoxication, the garden of the soul, and liberation from religious hypocrisy.",
+  "bio": "Hafez of Shiraz is universally revered as the supreme master of Persian lyric poetry (ghazal). His Divan is cherished throughout the East as an oracle of divine illumination and mystical joy. Writing in the golden age of Persian literature, Hafez used the allegories of wine, taverns, nightingales, and roses to express the soul's burning longing for the Divine Beloved. Fiercely critical of empty dogmatic piety and moral posturing, Hafez championed the \"Rend\"—the ecstatic lover who discards social pretense to live in direct, radiant communion with truth and joy.",
+  "keyWorks": [
+    {
+      "title": "The Divan of Hafez",
+      "description": "The definitive collection of hundreds of ecstatic Sufi ghazals exploring divine love, spiritual alchemy, and cosmic joy."
+    },
+    {
+      "title": "The Gift & I Heard God Laughing (Scholarly Renderings)",
+      "description": "Celebrated translations bringing Hafez's vibrant spiritual humor, tenderness, and wisdom to modern readers."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "Divine Joy as Sacred Devotion",
+      "description": "Joy and laughter are not frivolous distractions, but the purest, most elevated form of prayer to the Creator."
+    },
+    {
+      "concept": "Tearing the Veil of Hypocrisy",
+      "description": "True spirituality belongs not to solemn ascetics in temples, but to humble, authentic hearts drinking of divine grace."
+    },
+    {
+      "concept": "The Generosity of the Sun",
+      "description": "Cosmic love radiates unconditionally without keeping debts or demanding repayment, illuminating the whole universe."
+    },
+    {
+      "concept": "The Garden Within the Heart",
+      "description": "The Beloved is never absent; every trial and tear is transformed into pearls of wisdom in the tavern of the soul."
+    }
+  ],
+  "whyTimeless": "Hafez transmutes human grief into golden ecstasy, reminding every seeker that love is the sole reason and supreme joy of our existence."
+}

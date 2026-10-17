@@ -1,0 +1,51 @@
+{
+  "slug": "rabindranath-tagore",
+  "name": "Rabindranath Tagore",
+  "longName": "Rabindranath Tagore (Gurudev)",
+  "era": "1861 – 1941",
+  "tradition": "Bengali Renaissance & Universal Humanism",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rabindranath_Tagore",
+  "summary": "First non-European Nobel laureate in Literature, poet, composer, educator, and philosopher of universal human consciousness and the harmony of nature.",
+  "bio": "Rabindranath Tagore was a polymath from Calcutta whose monumental body of poetry, songs, plays, novels, essays, and paintings reshaped modern Bengali and Indian culture. In 1913, he was awarded the Nobel Prize in Literature for his transcendent verse collection Gitanjali (Song Offerings), mesmerizing figures such as W. B. Yeats and Ezra Pound. Tagore founded Visva-Bharati University in Santiniketan, creating an open-air educational sanctuary where humanity and nature commune without the rigid constraints of colonial schooling. Rejecting narrow nationalist chauvinism, Tagore advocated for universal humanism—a spiritual vision recognizing the sacred kinship between human creativity, cosmic harmony, and freedom of thought.",
+  "keyWorks": [
+    {
+      "title": "Gitanjali (Song Offerings)",
+      "description": "The Nobel Prize-winning collection of 103 luminous prose poems expressing devotional intimacy, cosmic wonder, and surrender to the divine."
+    },
+    {
+      "title": "Sadhana: The Realization of Life",
+      "description": "Philosophical essays delivered at Harvard and Oxford exploring the Upanishadic worldview, the problem of evil, and the realization of unity."
+    },
+    {
+      "title": "The Religion of Man (Hibbert Lectures)",
+      "description": "Tagore's spiritual philosophy defining the divine as the universal humanity dwelling within the human heart."
+    },
+    {
+      "title": "Gora",
+      "description": "His epic novel exploring identity, caste, religious dogmatism, and the discovery of universal human fellowship."
+    },
+    {
+      "title": "The Post Office & Red Oleanders",
+      "description": "Lyrical dramas addressing freedom of the soul, bureaucratic mechanization, and the longing for spiritual beauty."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "Where the Mind is Without Fear",
+      "description": "The ideal of a free society where knowledge is free, reason is not deadened by habit, and the mind is led into ever-widening thought."
+    },
+    {
+      "concept": "Cosmic Kinship with Nature",
+      "description": "Human beings are not conquerors of nature, but harmonious notes in the eternal symphony of the earth, seasons, and cosmos."
+    },
+    {
+      "concept": "Divine Play (Lila) & Joy",
+      "description": "Creation is not an act of grim necessity, but an overflowing expression of divine love, art, and joyous play."
+    },
+    {
+      "concept": "Universal Humanism",
+      "description": "Transcending narrow sectarian borders and nationalistic greed to celebrate the shared spiritual heritage of all humankind."
+    }
+  ],
+  "whyTimeless": "Tagore’s lyrical voice elevates the soul above petty tribalism into a radiant sanctuary of peace, artistic freedom, and spiritual wonder."
+}

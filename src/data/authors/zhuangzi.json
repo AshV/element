@@ -1,0 +1,39 @@
+{
+  "slug": "zhuangzi",
+  "name": "Zhuangzi",
+  "longName": "Zhuangzi (Chuang Tzu)",
+  "era": "c. 4th Century BC",
+  "tradition": "Classical Daoist Mysticism & Philosophy of Freedom",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Zhuangzi_(book)",
+  "summary": "Iconoclastic Daoist mystic and literary genius whose parables celebrate radical freedom, spontaneity, and harmony with the natural cosmic flow.",
+  "bio": "Zhuangzi (Master Zhuang) was a Chinese philosopher and mystic who, along with Lao Tzu, established the foundational literature of Daoism. Renowned for his biting wit, playful paradoxes, and fantastical allegories, Zhuangzi challenged the rigid conventions, moral pedantry, and artificial social hierarchies of his era. Through parables like the Butterfly Dream, Cook Ding carving an ox with effortless grace, and the gnarled tree whose uselessness protects its life, Zhuangzi taught that true liberation comes from dissolving egoic control and wandering carefree in unity with the infinite Dao.",
+  "keyWorks": [
+    {
+      "title": "The Book of Zhuangzi (Inner Chapters)",
+      "description": "Seven seminal masterworks including 'Carefree Wandering', 'On the Equality of Things', and 'The Secret of Caring for Life'."
+    },
+    {
+      "title": "The Butterfly Dream (Parables)",
+      "description": "Celebrated allegorical inquiries shattering rigid distinctions between waking reality, subjective consciousness, and dreaming."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "Carefree Wandering (Xiaoyaoyou)",
+      "description": "Spiritual liberation from social cages and mental calcification, being utterly at home wherever your feet touch the ground."
+    },
+    {
+      "concept": "The Equality of All Things (Qiwulun)",
+      "description": "Releasing petty dualisms of right and wrong, success and failure, viewing all transformations as the natural dance of the cosmos."
+    },
+    {
+      "concept": "The Utility of the Useless",
+      "description": "Protecting your inner spirit from worldly exploitation by refusing to reduce your soul to a mere productive instrument."
+    },
+    {
+      "concept": "Fasting of the Heart (Xinzhai)",
+      "description": "Stilling mental chatter and conceptual calculation to become an open, empty mirror through which cosmic presence flows."
+    }
+  ],
+  "whyTimeless": "Zhuangzi remains humanity's most liberating and playful philosopher, puncturing self-important human rigidity with cosmic humor and boundless spiritual freedom."
+}

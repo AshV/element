@@ -1,0 +1,39 @@
+{
+  "slug": "chanakya",
+  "name": "Chanakya",
+  "longName": "Chanakya (Kautilya / Vishnugupta)",
+  "era": "c. 375 – 283 BC",
+  "tradition": "Ancient Indian Statecraft & Political Realism",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chanakya",
+  "summary": "Master political strategist, economist, and royal advisor who united India under the Maurya Empire and authored the Arthashastra.",
+  "bio": "Chanakya, also known as Kautilya or Vishnugupta, was a professor of political science and economics at the ancient university of Takshashila (Taxila). Witnessing the fragmentation of Indian kingdoms in the face of Alexander the Great's invasion, Chanakya engineered the overthrow of the corrupt Nanda dynasty and installed Chandragupta Maurya as emperor, establishing the vast Mauryan Empire. His masterwork, the Arthashastra, is the ancient world's most comprehensive treatise on statecraft, economic policy, military strategy, espionage, and civic duty. His aphorisms in Chanakya Niti remain celebrated for their piercing psychological realism and uncompromising emphasis on strategic foresight and self-discipline.",
+  "keyWorks": [
+    {
+      "title": "Arthashastra",
+      "description": "The definitive 15-book Sanskrit manual on political administration, economic governance, foreign policy, law, and national defense."
+    },
+    {
+      "title": "Chanakya Niti (Maxims on Practical Life)",
+      "description": "A celebrated collection of aphorisms providing pragmatic counsel on leadership, ethics, human psychology, finance, and diplomacy."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "Indriya-Jaya (Self-Mastery in Leadership)",
+      "description": "A leader who cannot conquer his own six internal enemies (lust, anger, greed, vanity, arrogance, and jealousy) will inevitably destroy his kingdom."
+    },
+    {
+      "concept": "Yogakshema (Welfare of the People)",
+      "description": "In the happiness of his subjects lies the king's happiness; in their welfare his welfare. Whatever pleases himself he shall not consider as good, but whatever pleases his subjects he shall consider as good."
+    },
+    {
+      "concept": "Strategic Realism & Foresight",
+      "description": "Anticipating potential crises before they manifest; acting with calculated pragmatism rather than emotional naivety."
+    },
+    {
+      "concept": "The Shield of Knowledge",
+      "description": "Learning is like a friend in faraway lands; an educated mind possesses an armor that no enemy can breach."
+    }
+  ],
+  "whyTimeless": "Chanakya provided the ancient blueprint for effective governance and realpolitik, demonstrating that noble ideals require strategic discipline and realistic execution to survive."
+}

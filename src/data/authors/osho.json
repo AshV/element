@@ -1,0 +1,39 @@
+{
+  "slug": "osho",
+  "name": "Osho",
+  "longName": "Osho (Bhagwan Shree Rajneesh)",
+  "era": "1931 – 1990",
+  "tradition": "Contemporary Eastern Thought & Meditation",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Rajneesh",
+  "summary": "Provocative contemporary mystic who synthesized Zen, Sufism, Taoism, and Western therapy around total inner awareness.",
+  "bio": "Osho was an Indian mystic, guru, and spiritual teacher who served as a professor of philosophy before traveling across India giving discourses. Rejecting institutionalized dogmas and moralistic hypocrisy, Osho championed meditation not as an ascetic retreat from life, but as a silent, joyful witnessing of the present moment. He introduced Dynamic Meditation and active meditation techniques designed specifically to release suppressed emotional trauma in modern individuals before entering silent awareness.",
+  "keyWorks": [
+    {
+      "title": "The Book of Secrets",
+      "description": "Comprehensive commentaries on the 112 classical meditation techniques of the Vigyan Bhairav Tantra."
+    },
+    {
+      "title": "Courage: The Joy of Living Dangerously",
+      "description": "A meditation on confronting fear, embracing uncertainty, and living with authentic heart."
+    },
+    {
+      "title": "Awareness: The Key to Living in Balance",
+      "description": "Discourses on mindfulness, witnessing the mind without judgment, and inner freedom."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "The Witnessing Mind",
+      "description": "You are neither the body nor the mind; you are the silent consciousness observing both."
+    },
+    {
+      "concept": "Zorba the Buddha",
+      "description": "The synthesis of earthly celebration (Zorba) with deep spiritual transcendence and silence (Buddha)."
+    },
+    {
+      "concept": "Meditation in Action",
+      "description": "Meditation is not sitting under a tree; it is an awareness carried into drinking tea, speaking, and walking."
+    }
+  ],
+  "whyTimeless": "Osho’s teachings deconstruct psychological conditioning and societal guilt, directing the seeker back to personal freedom, humor, and radical self-honesty."
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "ancient-greek-proverbs",
+  "name": "Ancient Greek Proverbs",
+  "era": "Classical Antiquity (c. 8th – 4th Century BC)",
+  "tradition": "Hellenic Gnomai & Folk Wisdom",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/List_of_Greek_phrases",
+  "summary": "Foundational Delphic maxims and Aesopian folk wisdom on self-knowledge, moderation, character, and civic courage.",
+  "bio": "Before Socrates and Plato wrote systematic treatises, ancient Greece was guided by gnomai—pithy gnomic maxims inscribed on temple columns, carved into boundary stones, and sung by lyric poets. Originating from the Seven Sages of Greece, Delphi, and Aesop's fables, these proverbs formed the bedrock of Western moral philosophy, championing self-mastery, civic justice, and the supreme danger of hubris (arrogance).",
+  "keyWorks": [
+    {
+      "title": "The Delphic Maxims",
+      "description": "One hundred and forty-seven moral precepts carved into the Temple of Apollo at Delphi."
+    },
+    {
+      "title": "Aesop's Fables & Moral Sayings",
+      "description": "Timeless allegories on character, humility, deception, and resilience."
+    },
+    {
+      "title": "Sayings of the Seven Sages",
+      "description": "Aphorisms of Solon, Thales, Pittacus, and Chilon on statecraft and self-control."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "Gnothi Seauton (Know Thyself)",
+      "description": "The summit of human discernment — understanding your own limits, impulses, and nature."
+    },
+    {
+      "concept": "Meden Agan (Nothing in Excess)",
+      "description": "The golden mean — walking the noble middle path between deficiency and wild excess."
+    },
+    {
+      "concept": "Character is Destiny (Ethos Anthropoi Daimon)",
+      "description": "A person's fate is shaped not by external stars, but by internal habits and moral choices."
+    },
+    {
+      "concept": "Per Aspera Ad Astra",
+      "description": "Through hardships to the stars — recognizing struggle as the necessary crucible of greatness."
+    }
+  ],
+  "whyTimeless": "Greek proverbs formed the intellectual dawn of human self-inquiry, reminding us that virtue and self-command are the foundation of freedom."
+}

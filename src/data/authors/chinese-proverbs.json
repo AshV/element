@@ -1,0 +1,42 @@
+{
+  "slug": "chinese-proverbs",
+  "name": "Chinese Proverbs",
+  "era": "Ancient to Classical China (c. 1000 BC – 17th Century)",
+  "tradition": "Taoist, Confucian & Folk Wisdom",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chinese_proverb",
+  "summary": "Pithy Chengyu idioms and ancient sayings distilling thousands of years of ethical reflection, statecraft, and balance with the Dao.",
+  "bio": "Chinese proverbs (chengyu and suyu) are distilled condensations of China's three great streams of thought: Taoism, Confucianism, and Buddhism, woven together with centuries of agrarian and civil observation. Often rooted in historical parables and classical poems, these sayings offer sharp psychological discernment on human ambition, patience, fate, and the subtle art of non-contention (Wu Wei).",
+  "keyWorks": [
+    {
+      "title": "Classical Chengyu Collections",
+      "description": "Four-character idioms preserving pivotal historical and philosophical parables."
+    },
+    {
+      "title": "Zengguang Xianwen (增廣賢文)",
+      "description": "The premier classical anthology of popular proverbs, ethics, and worldly discernment."
+    },
+    {
+      "title": "Shishuoyu (Tales of the World)",
+      "description": "Sayings and anecdotes capturing the spirit, wit, and wisdom of classical scholars."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "Yin Shui Si Yuan (饮水思源)",
+      "description": "When drinking water, remember its source — cultivating radical gratitude and reverence for origins."
+    },
+    {
+      "concept": "Yu Gong Yi Shan (愚公移山)",
+      "description": "The resolute perseverance that can move mountains through steady, quiet daily dedication."
+    },
+    {
+      "concept": "Wu Wei & Organic Harmony",
+      "description": "Acting in harmony with the grain of nature rather than forcing outcomes through aggressive ego."
+    },
+    {
+      "concept": "Sai Weng Shi Ma (塞翁失马)",
+      "description": "The blessing in disguise — recognizing that misfortune and fortune are eternally intertwined."
+    }
+  ],
+  "whyTimeless": "Chinese proverbs teach the supreme wisdom of long-term perspective, emotional equanimity, and humility before the cycles of nature."
+}

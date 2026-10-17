@@ -1,0 +1,46 @@
+{
+  "slug": "friedrich-nietzsche",
+  "name": "Friedrich Nietzsche",
+  "era": "1844 – 1900",
+  "tradition": "Existential Philosophy & Cultural Critique",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+  "summary": "German philosopher and poet whose fiery aphorisms challenged complacency and championed radical life-affirmation.",
+  "bio": "Friedrich Nietzsche was a German philologist, philosopher, and poet whose incandescent prose fundamentally reshaped modern psychology, theology, and literature. Resigning from his professorship at Basel due to chronic pain, migraines, and failing eyesight, Nietzsche wandered the Swiss Alps, Italy, and the French Riviera, writing works of breathtaking aphoristic power. Rejecting herd morality, nihilism, and life-denying dogmas, he called for self-overcoming, intellectual daring, and the radical affirmation of life in all its suffering and beauty.",
+  "keyWorks": [
+    {
+      "title": "Thus Spoke Zarathustra",
+      "description": "Philosophical poetry proclaiming self-overcoming, the Overman, and the eternal return of life."
+    },
+    {
+      "title": "Beyond Good and Evil",
+      "description": "A relentless critique of traditional moral systems and an exploration of intellectual honesty."
+    },
+    {
+      "title": "The Gay Science (Die fröhliche Wissenschaft)",
+      "description": "A joyful celebration of free spirits, artistic dance, intellectual courage, and Amor Fati."
+    },
+    {
+      "title": "Twilight of the Idols",
+      "description": "A sharp, concentrated summary of his philosophy, showing how to philosophize with a hammer."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "Amor Fati (Love of Fate)",
+      "description": "Not merely enduring necessity, but actively loving every moment of your life—including its pain—with total devotion."
+    },
+    {
+      "concept": "Self-Overcoming (Selbstüberwindung)",
+      "description": "Viewing human existence not as a finished state, but as a bridge to higher creative mastery and strength."
+    },
+    {
+      "concept": "The Dancing Star",
+      "description": "You must have chaos within you to give birth to a dancing star; creativity requires embracing tension."
+    },
+    {
+      "concept": "The Free Spirit",
+      "description": "Having the intellectual courage to think outside the consensus of the crowd and forge your own authentic values."
+    }
+  ],
+  "whyTimeless": "Nietzsche challenges the reader to wake up from complacency, reject victimhood, and turn life’s deepest hardships into radiant creative triumph."
+}

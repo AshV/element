@@ -1,0 +1,42 @@
+{
+  "slug": "persian-proverbs",
+  "name": "Persian Proverbs",
+  "era": "Ancient Persia to Classical Era",
+  "tradition": "Persian & Sufi Folk Wisdom",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Persian_proverbs",
+  "summary": "Poetic Persian Zarbolmasal reflecting hospitality, patience, detachment from vanity, and inner spiritual love.",
+  "bio": "Persian proverbs (Zarbolmasal) are celebrated across world literature for their lyrical elegance and psychological depth. Rooted in ancient Zoroastrian ethics of 'Good Thoughts, Good Words, Good Deeds' and enriched by the mystical allegories of Ferdowsi, Saadi, Rumi, and Attar, Persian folk wisdom views the world with ironic clarity and boundless compassion. It counsels patience in exile, warmth toward strangers, and quiet detachment from fleeting glory.",
+  "keyWorks": [
+    {
+      "title": "Saadi's Gulistan & Bustan Maxims",
+      "description": "Pithy moral anecdotes on compassion, kingship, modesty, and the art of conversation."
+    },
+    {
+      "title": "Zarbolmasal Anthologies (Dehkhoda)",
+      "description": "The definitive encyclopedic record of Persian popular and folkloric aphorisms."
+    },
+    {
+      "title": "Ferdowsi's Shahnameh Precepts",
+      "description": "Heroic reflections on honor, justice, the brevity of life, and the wheel of fate."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "Sabr (Patience & Fortitude)",
+      "description": "Patience is bitter, but its fruit is sweet — enduring hardship with dignity and quiet faith."
+    },
+    {
+      "concept": "The Giving Hand (Fragrance of Charity)",
+      "description": "A bit of fragrance always clings to the hand that gives roses — generosity heals the giver."
+    },
+    {
+      "concept": "Transience of Status",
+      "description": "Neither the glory of kings nor the sorrow of dervishes endures; all worldly states pass away."
+    },
+    {
+      "concept": "The Sacred Stranger",
+      "description": "The guest is a blessing of God; opening one's home and heart without calculation."
+    }
+  ],
+  "whyTimeless": "Persian proverbs blend deep poetic beauty with existential truth, reminding us that kindness, patience, and love are the only enduring legacy."
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "swami-vivekananda",
+  "name": "Swami Vivekananda",
+  "longName": "Swami Vivekananda (Narendranath Datta)",
+  "era": "1863 – 1902",
+  "tradition": "Advaita Vedanta & Practical Spirituality",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Swami_Vivekananda",
+  "summary": "Monk, philosopher, and orator who introduced Vedanta and Yoga to the Western world at the 1893 Parliament of Religions and revolutionized practical spirituality.",
+  "bio": "Swami Vivekananda, born Narendranath Datta in Calcutta, was the chief disciple of the 19th-century mystic Ramakrishna Paramahamsa. Endowed with a razor-sharp intellect, deep mastery of Western and Eastern philosophy, and an incandescent moral presence, Vivekananda represented India and Hinduism at the 1893 Parliament of the World's Religions in Chicago, opening with his iconic address \"Sisters and brothers of America!\" He founded the Ramakrishna Math and Ramakrishna Mission, championing \"Practical Vedanta\"—the conviction that the highest spiritual realization must express itself in tangible, selfless service to suffering humanity. Emphasizing fearlessness (abhaya), self-reliance, and the inherent divinity in every human soul, his teachings bridged ancient metaphysical wisdom with urgent social action.",
+  "keyWorks": [
+    {
+      "title": "Raja Yoga (Conquering the Internal Nature)",
+      "description": "The seminal modern commentary on Patanjali's Yoga Sutras, presenting meditation and mind control as an exact empirical science."
+    },
+    {
+      "title": "Karma Yoga (The Yoga of Action)",
+      "description": "A masterclass on non-attached action, teaching how to work without desire for praise or fear of blame as a direct path to spiritual freedom."
+    },
+    {
+      "title": "Jnana Yoga (The Yoga of Knowledge)",
+      "description": "Lectures exploring the metaphysics of Advaita Vedanta, the nature of consciousness (Atman-Brahman), and the illusion of separateness."
+    },
+    {
+      "title": "Bhakti Yoga (The Yoga of Devotion)",
+      "description": "An examination of divine love, transforming emotional longing into universal compassion."
+    },
+    {
+      "title": "Lectures from Colombo to Almora",
+      "description": "Inspirational addresses rallying the youth toward moral strength, education, fearlessness, and social uplift."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "Inherent Divinity of the Soul",
+      "description": "Every human being is essentially divine; religion is the manifestation of the divinity already in man."
+    },
+    {
+      "concept": "Radical Fearlessness (Abhaya)",
+      "description": "The greatest sin is fear; you have within you the infinite power of the universe if you stand up and manifest your strength."
+    },
+    {
+      "concept": "Service as Worship (Seva)",
+      "description": "Serving the living human being—especially the downtrodden—is the highest form of worship of the Divine (Jiva is Shiva)."
+    },
+    {
+      "concept": "Harmony of All Faiths",
+      "description": "Different religions are not contradictory truths, but different paths climbing the same mountain to the identical summit."
+    }
+  ],
+  "whyTimeless": "Vivekananda’s electrifying call to courage, inner strength, and selfless service cuts through fatalism, inspiring individuals across cultures to awaken their latent potential."
+}

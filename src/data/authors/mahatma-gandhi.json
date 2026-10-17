@@ -1,0 +1,47 @@
+{
+  "slug": "mahatma-gandhi",
+  "name": "Mahatma Gandhi",
+  "longName": "Mohandas Karamchand Gandhi",
+  "era": "1869 – 1948",
+  "tradition": "Satyagraha & Moral Philosophy",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+  "summary": "Leader of India’s independence movement whose doctrine of Satyagraha (truth-force) and Ahimsa (nonviolence) inspired global civil rights movements.",
+  "bio": "Mohandas Karamchand Gandhi was an Indian lawyer, anti-colonial nationalist, and political ethicist whose philosophy of Satyagraha (insistence on Truth through nonviolent soul-force) liberated India from British colonial rule and revolutionized 20th-century social change. Developing his methods while fighting racial discrimination in South Africa for twenty years, Gandhi returned to India to lead nationwide nonviolent campaigns, including the Non-Cooperation Movement, the Salt March to Dandi, and the Quit India Movement. Living with radical simplicity in ashrams, spinning his own khadi cloth, and eating a minimalist diet, Gandhi demonstrated that political victory is meaningless without internal moral self-rule (Swaraj) and universal compassion.",
+  "keyWorks": [
+    {
+      "title": "The Story of My Experiments with Truth",
+      "description": "Gandhi's candid autobiography chronicling his moral trials, dietetic experiments, spiritual search, and development of nonviolent resistance."
+    },
+    {
+      "title": "Hind Swaraj (Indian Home Rule)",
+      "description": "His foundational 1909 manifesto diagnosing the spiritual poverty of aggressive industrialism and outlining moral self-governance."
+    },
+    {
+      "title": "Non-Violence in Peace and War",
+      "description": "Collected essays and discourses detailing the philosophy, tactics, and personal discipline required for militant nonviolence."
+    },
+    {
+      "title": "Key to Health",
+      "description": "Reflections on bodily discipline, fasting, mental calm, and living in harmony with nature."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "Satyagraha (Truth-Force)",
+      "description": "Holding relentlessly to Truth not through violence or coercion, but through self-suffering, moral persuasion, and unshakeable conviction."
+    },
+    {
+      "concept": "Ahimsa (Universal Nonviolence)",
+      "description": "Not merely passive non-injury, but active love and goodwill toward all living beings, including one's opponents."
+    },
+    {
+      "concept": "Swaraj (Self-Mastery before Political Rule)",
+      "description": "True freedom begins with mastering your own desires, fears, and ego; external liberation is a hollow shell without inner discipline."
+    },
+    {
+      "concept": "Sarvodaya (Welfare of All)",
+      "description": "An economic and moral vision measuring the health of a society by the flourishing and dignity of its poorest, most vulnerable members."
+    }
+  ],
+  "whyTimeless": "Gandhi proved to humanity that moral force and uncompromising nonviolence can conquer imperial armies, providing the enduring playbook for Martin Luther King Jr., Nelson Mandela, and peace movements worldwide."
+}

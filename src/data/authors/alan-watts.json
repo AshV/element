@@ -1,0 +1,46 @@
+{
+  "slug": "alan-watts",
+  "name": "Alan Watts",
+  "era": "1915 – 1973",
+  "tradition": "Zen, Taoism & Eastern Philosophy",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_Watts",
+  "summary": "British-American philosopher who translated profound Zen and Eastern mysticism into playful, liberating insights for the modern mind.",
+  "bio": "Alan Wilson Watts was an English-born philosopher, writer, and speaker celebrated as one of the most charismatic interpreters of Asian philosophy for Western audiences. Drawing upon Zen Buddhism, Taoism, and Vedanta, Watts dissolved the artificial boundary between spirituality and everyday human existence. His lectures and books invited listeners to step out of the illusion of the isolated ego, recognize that humans do not come into the world but out of it (like waves from the ocean), and experience the cosmic play (lila) of the eternal present.",
+  "keyWorks": [
+    {
+      "title": "The Way of Zen",
+      "description": "A definitive historical and psychological introduction to Zen philosophy and meditation."
+    },
+    {
+      "title": "The Wisdom of Insecurity",
+      "description": "A brilliant manifesto showing that human anxiety comes from clinging to security in a world that is inherently flowing."
+    },
+    {
+      "title": "The Book: On the Taboo Against Knowing Who You Are",
+      "description": "An exploration of identity, revealing that you are the universe looking back at itself."
+    },
+    {
+      "title": "Nature, Man and Woman",
+      "description": "A profound study on restoring sacred connection between human consciousness and the natural environment."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "The Eternal Present",
+      "description": "The future does not exist except as an idea in the now; if you cannot live fully in the present, you cannot live anywhere."
+    },
+    {
+      "concept": "The Illusion of the Ego",
+      "description": "The feeling of being an isolated bag of skin in competition with the universe is a hallucination; you are an expression of the whole cosmos."
+    },
+    {
+      "concept": "Life as Musical Play",
+      "description": "Life has no final destination where you \"arrive\"; like music or dancing, the purpose of the song is the singing itself."
+    },
+    {
+      "concept": "The Law of Reversed Effort",
+      "description": "Trying to float by thrashing in the water only makes you sink; surrender and trust allow reality to support you."
+    }
+  ],
+  "whyTimeless": "With wit, warmth, and lucid clarity, Alan Watts frees the soul from guilt, anxiety, and rigid seriousness, reconnecting us to the joyful mystery of being alive."
+}

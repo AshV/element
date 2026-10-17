@@ -1,0 +1,39 @@
+{
+  "slug": "kabir",
+  "name": "Kabir",
+  "longName": "Sant Kabir Das",
+  "era": "c. 15th Century",
+  "tradition": "Bhakti-Sufi Syncretic Mysticism",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kabir",
+  "summary": "Revered mystic poet of northern India whose direct, unsparing verses cut through religious dogma to reveal the divine residing within the human heart.",
+  "bio": "Sant Kabir was an Indian mystic poet and saint whose writings influenced the Bhakti movement and are revered across Hinduism, Sufism, and Sikhism (with hundreds of his hymns included in the Guru Granth Sahib). A humble weaver by trade, Kabir rejected sectarian divisions, caste prejudices, and empty temple rituals, declaring that the Supreme Reality is neither in the mosque nor the temple, but is the breath within all breathing. His dohas (couplets) remain celebrated for their piercing directness, lyrical beauty, and uncompromising demand for spiritual authenticity.",
+  "keyWorks": [
+    {
+      "title": "Bijak of Kabir",
+      "description": "The core compilation of Kabir's sayings, couplets (sakhi), and mystical songs unmasking religious hypocrisy."
+    },
+    {
+      "title": "Kabir Granthavali & Dohas",
+      "description": "Timeless rhymed couplets on moral living, the illusion of maya, the inner guru, and direct communion with the divine."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "The Divine Within the Heart",
+      "description": "God is not found in distant pilgrimages or stone idols; look within your own chest where the inner light burns continuously."
+    },
+    {
+      "concept": "Rejection of Empty Ritualism",
+      "description": "Shed sectarian dogmas, caste pride, and hypocritical pieties; genuine devotion requires pure, unadorned love."
+    },
+    {
+      "concept": "The Natural State (Sahaja)",
+      "description": "Spiritual liberation is living in simple, spontaneous remembrance of truth amid everyday household duties."
+    },
+    {
+      "concept": "Discrimination of the Real (Viveka)",
+      "description": "This world is a fleeting marketplace; do not trade the immortal jewel of the soul for counterfeit dust."
+    }
+  ],
+  "whyTimeless": "Kabir stripped away all sectarian pretense with devastating clarity, reminding humanity that God is as intimate and immediate as our own breath."
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "plato",
+  "name": "Plato",
+  "era": "c. 428 – 348 BC",
+  "tradition": "Classical Greek Philosophy (Platonism)",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Plato",
+  "summary": "Pioneering Athenian thinker and founder of the Academy, the first institution of higher learning in the Western world.",
+  "bio": "Plato was a classical Athenian philosopher who preserved and expanded the legacy of his mentor Socrates while establishing the fundamental vocabulary of metaphysics, political philosophy, epistemology, and aesthetics. Founding the Academy around 387 BC, Plato composed dozens of immortal dramatic dialogues wherein characters grapple with the nature of justice, love, knowledge, and statecraft. Central to his philosophy is the Theory of Forms—the belief that the physical world of fleeting shadows points toward a transcendent realm of eternal, unchanging truths crowned by the Form of the Good.",
+  "keyWorks": [
+    {
+      "title": "The Republic",
+      "description": "The masterwork on justice, the ideal city-state, the Philosopher King, and the Allegory of the Cave."
+    },
+    {
+      "title": "Symposium",
+      "description": "A series of banquet speeches on the ascending ladder of love (Eros), from bodily attraction to the divine contemplation of absolute Beauty."
+    },
+    {
+      "title": "Phaedrus",
+      "description": "An exploration of the soul as a winged chariot pulled by two spirited horses, beauty, and authentic rhetoric."
+    },
+    {
+      "title": "The Laws",
+      "description": "Plato's longest dialogue, detailing the practical legal and institutional foundations of a stable, virtuous society."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "Theory of Forms",
+      "description": "The material world is an imperfect reflection of eternal, perfect realities (Truth, Justice, Beauty)."
+    },
+    {
+      "concept": "The Allegory of the Cave",
+      "description": "Humanity begins in the darkness of shadows and illusions, requiring philosophical education to step into the sunlight of truth."
+    },
+    {
+      "concept": "The Tripartite Soul",
+      "description": "Harmonizing Reason (Logos), Spirit/Courage (Thumos), and Appetite (Epithumia) under the sovereignty of wisdom."
+    }
+  ],
+  "whyTimeless": "Plato articulated the eternal human struggle between superficial appearance and deeper reality, shaping two millennia of philosophy, literature, and spiritual aspiration."
+}

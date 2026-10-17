@@ -1,0 +1,46 @@
+{
+  "slug": "sanskrit-proverbs",
+  "name": "Sanskrit Subhashitas",
+  "era": "Vedic & Classical India (c. 1500 BC – 12th Century AD)",
+  "tradition": "Subhashita, Niti & Sanatana Dharma",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Subhashita",
+  "summary": "Eloquent Sanskrit epigrams and poetic aphorisms celebrating righteous conduct, true knowledge, friendship, and moral courage.",
+  "bio": "Subhashitas ('well-spoken words') are epigrammatic Sanskrit verses composed across millennia by poets, sages, and royal counselors. Collected in monumental anthologies like the Subhashitaratnakosha and Panchatantra, these verses served as moral compasses for daily life. Covering statecraft, friendship, the futility of greed, and the supreme sanctity of inner knowledge (Vidya), Sanskrit aphorisms present ethics not as dry dogma, but as musical, elevated art.",
+  "keyWorks": [
+    {
+      "title": "Subhashita Ratna Bhandagara",
+      "description": "The supreme treasure-house anthology of over ten thousand classical Sanskrit epigrams."
+    },
+    {
+      "title": "Bhartrihari's Niti Shataka",
+      "description": "A hundred classical verses on moral conduct, character, and worldly discernment."
+    },
+    {
+      "title": "Hitopadesha & Panchatantra Verses",
+      "description": "Allegorical animal wisdom tales anchored in practical worldly prudence and virtue."
+    },
+    {
+      "title": "Chanakya Niti",
+      "description": "Maxims of sharp political realism, ethical leadership, and pragmatic human psychology."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "Vidya Eva Dhanam (विद्या धनम्)",
+      "description": "Knowledge and inner wisdom are the only treasure that thieves cannot steal and sharing multiplies."
+    },
+    {
+      "concept": "Vasudhaiva Kutumbakam (वसुधैव कुटुम्बकम्)",
+      "description": "The entire cosmos is one family — universal kinship transcending narrow parochial bounds."
+    },
+    {
+      "concept": "Satya & Dharma (सत्यं धर्मः)",
+      "description": "Upholding truth and righteousness even when convenience, power, or fear urge compromise."
+    },
+    {
+      "concept": "Satsanga (सत्सङ्ग)",
+      "description": "The transformative power of noble company and noble thoughts in shaping destiny."
+    }
+  ],
+  "whyTimeless": "Sanskrit Subhashitas elevate daily life into a spiritual practice, reminding us that character, kindness, and truth outlast all kingdoms."
+}

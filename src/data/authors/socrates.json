@@ -1,0 +1,50 @@
+{
+  "slug": "socrates",
+  "name": "Socrates",
+  "era": "c. 470 – 399 BC",
+  "tradition": "Classical Greek Philosophy",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Socrates",
+  "summary": "Athenian philosopher widely considered the founding figure of Western moral philosophy and ethical inquiry.",
+  "bio": "Socrates was a classical Greek philosopher credit with laying the foundational stones of Western ethics and philosophical inquiry. Walking barefoot through the Agora of Athens, he engaged statesmen, poets, and artisans in relentless dialectical questioning (the Socratic Method), testing unexamined assumptions about justice, piety, and virtue. Unlike the Sophists who taught rhetoric for fee, Socrates claimed no personal wisdom, famously professing only his own ignorance (aporia). Sentenced to death in 399 BC on charges of impiety and corrupting the youth, he chose execution by hemlock rather than compromise his moral principles or abandon the examined life.",
+  "keyWorks": [
+    {
+      "title": "Plato's Apology",
+      "description": "Socrates' defense speech before the Athenian jury, declaring that 'the unexamined life is not worth living'."
+    },
+    {
+      "title": "Crito",
+      "description": "A dialogue in prison examining civil obedience, moral duty, and why one must never return injury for injury."
+    },
+    {
+      "title": "Phaedo",
+      "description": "Socrates' final hours discussing the immortality of the soul and philosophy as preparation for death."
+    },
+    {
+      "title": "Gorgias",
+      "description": "An examination of rhetoric versus truth, arguing that doing injustice is far worse for the soul than suffering it."
+    },
+    {
+      "title": "Xenophon's Memorabilia",
+      "description": "Recollections of Socrates' everyday conversations, self-control, friendship, and practical wisdom."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "Socratic Ignorance (Aporia)",
+      "description": "Recognizing that true wisdom begins by stripping away the illusion of knowledge."
+    },
+    {
+      "concept": "Care of the Soul (Psyche)",
+      "description": "Prioritizing virtue and inner character far above external wealth, status, or bodily comfort."
+    },
+    {
+      "concept": "Moral Autonomy",
+      "description": "Obeying reason and conscience above the capricious whims of popular opinion or authoritarian decree."
+    },
+    {
+      "concept": "Virtue as Knowledge",
+      "description": "The conviction that nobody does evil knowingly; evil stems from ignorance of true human flourishing."
+    }
+  ],
+  "whyTimeless": "Socrates remains the supreme archetype of intellectual courage and moral integrity, reminding every generation that questioning unexamined beliefs is the highest civic and personal duty."
+}

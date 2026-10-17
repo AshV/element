@@ -1,0 +1,43 @@
+{
+  "slug": "confucius",
+  "name": "Confucius",
+  "longName": "Kong Fuzi (Confucius)",
+  "era": "551 – 479 BC",
+  "tradition": "Classical Confucianism & Moral Ethics",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Confucius",
+  "summary": "Ancient Chinese philosopher and educator whose ethical teachings on benevolence, ritual propriety, and moral leadership shaped East Asian civilization.",
+  "bio": "Confucius (Kong Fuzi) was a Chinese philosopher, teacher, and political figure whose aphorisms and dialogues, compiled in The Analects, laid the foundational moral philosophy of East Asia. Living during the turbulent Spring and Autumn period, Confucius advocated for the restoration of social harmony through moral self-cultivation (Xiushen), filial reverence (Xiao), ritual propriety (Li), and universal human-heartedness (Ren). He championed the ideal of the Junzi (noble person)—one whose moral authority derives not from aristocratic birth, but from unshakeable integrity, lifelong learning, and selfless devotion to the common good.",
+  "keyWorks": [
+    {
+      "title": "The Analects (Lunyu)",
+      "description": "The definitive record of dialogues and aphorisms capturing Confucius's teachings on virtue, governance, friendship, and character."
+    },
+    {
+      "title": "The Great Learning (Daxue)",
+      "description": "A classic treatise outlining the systematic progression from personal self-cultivation to family harmony, good governance, and world peace."
+    },
+    {
+      "title": "The Doctrine of the Mean (Zhongyong)",
+      "description": "A profound philosophical work on maintaining cosmic balance, moral equilibrium, and wholehearted sincerity in all conduct."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "Human-Heartedness (Ren)",
+      "description": "Benevolence, empathy, and reverence for human dignity: do not impose on others what you yourself do not desire."
+    },
+    {
+      "concept": "Ritual Propriety & Reverence (Li)",
+      "description": "Conducting everyday interactions with mindful grace, mutual respect, and ethical intentionality."
+    },
+    {
+      "concept": "The Noble Person (Junzi)",
+      "description": "True nobility is measured not by wealth or status, but by quiet integrity, modesty in speech, and excellence in deed."
+    },
+    {
+      "concept": "Lifelong Self-Cultivation",
+      "description": "Real learning is the relentless polishing of the soul through reflection, honest self-examination, and practice."
+    }
+  ],
+  "whyTimeless": "Confucius formulated an enduring humanistic ethic that anchors civilization, proving that world peace begins with the quiet integrity of the individual heart."
+}

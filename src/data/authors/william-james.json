@@ -1,0 +1,55 @@
+{
+  "slug": "william-james",
+  "name": "William James",
+  "longName": "William James",
+  "era": "1842 – 1910",
+  "tradition": "Functional Psychology & Pragmatism",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/William_James",
+  "summary": "Pioneering Harvard polymath and \"Father of American Psychology\" who mapped the stream of consciousness, neural habit plasticity, and pragmatic belief.",
+  "bio": "William James was an American philosopher, psychologist, and physician widely celebrated as the father of American psychology and one of the most influential thinkers of the late 19th and early 20th centuries. The elder brother of novelist Henry James, William earned an M.D. from Harvard and established the first psychological laboratory in the United States. His monumental 1890 work, The Principles of Psychology, revolutionized the scientific study of the mind by introducing the concept of the \"stream of thought\" and emphasizing the biological and neurological role of habits in conserving conscious energy. Overcoming severe bouts of debilitating depression in his youth through a deliberate commitment to free will, James went on to co-found Pragmatism and Radical Empiricism. His philosophy insists that the ultimate test of any idea, emotion, or belief is not abstract dogma, but its tangible \"cash-value\" in the living, experiential conduct of life.",
+  "keyWorks": [
+    {
+      "title": "The Principles of Psychology (Vols. 1 & 2)",
+      "description": "The foundational 1,200-page masterwork that systematized modern psychology, exploring stream of thought, attention, habit, emotion, and the self."
+    },
+    {
+      "title": "The Varieties of Religious Experience",
+      "description": "The Gifford Lectures in Edinburgh, pioneering the psychological study of conversion, saintliness, mysticism, and spiritual consciousness."
+    },
+    {
+      "title": "Pragmatism: A New Name for Some Old Ways of Thinking",
+      "description": "The philosophical landmark arguing that truth is not a static property of an idea, but a process of verification through practical human experience."
+    },
+    {
+      "title": "The Will to Believe and Other Essays",
+      "description": "A spirited defense of our right to adopt passionate beliefs and act on faith where theoretical proof is incomplete."
+    },
+    {
+      "title": "Habit",
+      "description": "A concentrated, brilliant essay demonstrating how the nervous system physically records repeated actions, shaping character and destiny."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "The Plasticity of Habit",
+      "description": "We are walking bundles of habits; our nervous system preserves every moral choice and physical act. Character is forged by conscious, repeated discipline."
+    },
+    {
+      "concept": "The Stream of Consciousness",
+      "description": "Consciousness does not appear chopped up into bits, but flows like a continuous river, unique to each individual and constantly changing."
+    },
+    {
+      "concept": "Voluntary Attention as the Essence of Will",
+      "description": "The greatest effort of the human will is the effort of attention—holding a difficult thought in the center of the mind against the clamor of distracting impulses."
+    },
+    {
+      "concept": "The Pragmatic Method",
+      "description": "Evaluating the truth and validity of philosophies, beliefs, and behaviors by their practical consequences for lived human flourishing."
+    },
+    {
+      "concept": "The Power of Chosen Attitude",
+      "description": "The greatest discovery of my generation is that human beings can alter their lives by altering their attitudes of mind."
+    }
+  ],
+  "whyTimeless": "William James unified rigorous empirical observation with radiant humanism, giving humanity actionable, psychologically profound tools to overcome mental paralysis and craft an intentional life."
+}

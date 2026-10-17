@@ -1,0 +1,46 @@
+{
+  "slug": "celtic-proverbs",
+  "name": "Celtic & Norse Proverbs",
+  "era": "Early Medieval to Classical Folk Era",
+  "tradition": "Celtic Lore & Norse Hávamál",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/H%C3%A1vam%C3%A1l",
+  "summary": "Pragmatic northern wisdom from Gaelic hearths and the Viking Hávamál on courage, steadfast loyalty, and hospitality.",
+  "bio": "Forged in the rugged landscapes of the North Atlantic, Celtic and Norse proverbs embody a hardy, unflinching realism blended with reverence for nature, song, and hearth. From the Irish Gaelic seanfhocail to the Old Norse Hávamál ('Sayings of the High One'), this folk philosophy teaches that while sorrow and winter are certain, courage, loyalty to companions, and an unblemished reputation are immortal.",
+  "keyWorks": [
+    {
+      "title": "The Hávamál (Poetic Edda)",
+      "description": "Ancient Norse gnomic wisdom detailing hospitality, vigilance, practical wit, and honor."
+    },
+    {
+      "title": "The Icelandic Sagas (Íslendingasögur)",
+      "description": "Epic medieval narratives recording the codes of honor, law, fortitude, and fate in early Nordic society."
+    },
+    {
+      "title": "Irish Seanfhocail Collections",
+      "description": "Gaelic oral sayings celebrating nature, community shelter, humor, and resilience."
+    },
+    {
+      "title": "The Triads of Ireland",
+      "description": "Classical medieval gnomic triads classifying the virtues and curiosities of human nature."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "A Good Name Never Dies (Deyr Fé)",
+      "description": "Cattle die, kinsmen die, you yourself must die; but the fair fame of a righteous life never dies."
+    },
+    {
+      "concept": "In the Shelter of Each Other",
+      "description": "'Ar scáth a chéile a mhaireas na daoine' — it is in the shelter of each other that people live."
+    },
+    {
+      "concept": "The Wisdom of Silence & Listening",
+      "description": "The wise wanderer keeps watchful eyes and silent ears; wisdom enters through stillness."
+    },
+    {
+      "concept": "Walking into the Wind",
+      "description": "Meeting life's tempest with unbowed posture; no tree grows strong without storms."
+    }
+  ],
+  "whyTimeless": "Northern and Celtic proverbs strip away illusion, offering grounding courage and warmth for life's coldest seasons."
+}

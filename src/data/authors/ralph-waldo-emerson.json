@@ -1,0 +1,47 @@
+{
+  "slug": "ralph-waldo-emerson",
+  "name": "Ralph Waldo Emerson",
+  "longName": "Ralph Waldo Emerson",
+  "era": "1803 – 1882",
+  "tradition": "American Transcendentalism & Philosophy of Self-Reliance",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson",
+  "summary": "Leader of the Transcendentalist movement, essayist, and philosopher who championed individualism, intuitive spiritual wisdom, and communion with nature.",
+  "bio": "Ralph Waldo Emerson was an American essayist, lecturer, philosopher, and poet who led the Transcendentalist movement of the mid-19th century. A champion of individualism and a prescient critic of the countervailing pressures of society, Emerson disseminated his thoughts through dozens of published essays and more than 1,500 public lectures across the United States. His essays, including \"Self-Reliance\", \"Nature\", \"The Over-Soul\", and \"Circles\", profoundly influenced generations of thinkers, writers, and philosophers from Friedrich Nietzsche to Henry David Thoreau and Walt Whitman. Emerson taught that the divine lives within every individual soul and that true wisdom comes from trusting one's deepest intuition and living in sacred harmony with the cosmos.",
+  "keyWorks": [
+    {
+      "title": "Self-Reliance",
+      "description": "The iconic manifesto urging readers to trust their inner genius, resist blind social conformity, and live authentically from inner conviction."
+    },
+    {
+      "title": "Nature",
+      "description": "The foundational essay of Transcendentalism, asserting that the natural universe is the visible manifestation and tutor of the human spirit."
+    },
+    {
+      "title": "The Over-Soul",
+      "description": "A mystical exploration of the unified universal spirit that animates all existence and connects every individual mind to the divine whole."
+    },
+    {
+      "title": "Circles & Compensation",
+      "description": "Profound essays on the endless expansiveness of consciousness, spiritual evolution, and the universal law of equilibrium and moral balance."
+    }
+  ],
+  "pillars": [
+    {
+      "concept": "Radical Self-Reliance",
+      "description": "Trust thyself: every heart vibrates to that iron string. To believe your own thought, to believe that what is true for you in your private heart is true for all men — that is genius."
+    },
+    {
+      "concept": "The Over-Soul & Cosmic Unity",
+      "description": "Within man is the soul of the whole; the wise silence; the universal beauty, to which every part and particle is equally related."
+    },
+    {
+      "concept": "Nature as Sacred Mirror",
+      "description": "In the woods, we return to reason and faith. Standing on the bare ground, all mean egotism vanishes; the currents of the Universal Being circulate through us."
+    },
+    {
+      "concept": "Endless Evolution & Circles",
+      "description": "The life of man is a self-evolving circle, which, from a ring imperceptibly small, rushes on all sides outwards to new and larger circles, without end."
+    }
+  ],
+  "whyTimeless": "Emerson remains the ultimate champion of inner sovereignty, teaching humanity to shed cowardly conformity, awaken the divine within, and live with fearless authenticity."
+}
