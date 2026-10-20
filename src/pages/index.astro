@@ -41,10 +41,16 @@ const quotes = todayQuote
   ? [todayQuote, ...rotatedQuotes.slice(0, 11)]
   : rotatedQuotes.slice(0, 12);
 ---
-<BaseLayout title="Wisdom — Timeless Quotes, Reimagined">
+<BaseLayout
+  siteName="Element"
+  subtitle="Timeless Quotes, Reimagined"
+  description="Experience the world's greatest quotes as immersive, full-screen reels. Swipe through wisdom from Seneca, Rumi, Shakespeare, and more."
+  lang="en"
+>
   <ReelFeed
     quotes={quotes}
-    feedTitle="Wisdom"
+    feedTitle="Element"
+    feedSubtitle="Timeless Quotes, Reimagined"
     feedType="master"
     totalChunks={totalChunks}
   />

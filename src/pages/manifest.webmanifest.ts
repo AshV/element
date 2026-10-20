@@ -4,8 +4,8 @@ export const GET: APIRoute = () => {
   const base = import.meta.env.BASE_URL;
   const manifest = {
     $schema: 'https://json.schemastore.org/web-manifest-combined.json',
-    name: 'Wisdom — Timeless Quotes',
-    short_name: 'Wisdom',
+    name: 'Element — Timeless Quotes, Reimagined',
+    short_name: 'Element',
     description: "An immersive sanctuary of timeless reflections and philosophical wisdom from history's greatest thinkers.",
     start_url: base,
     scope: base,
